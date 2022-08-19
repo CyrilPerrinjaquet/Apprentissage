@@ -9,7 +9,13 @@
 * FreeCodeCamp, HTML et CSS 
 ### Mercredi
 * Réalisation des tutoriels:
-* Color Markers
-* Registeration form
+* Color Markers 
+* Registeration form 
 * Survey Form 
-* Box-model CSS
+* Box-model CSS.
+### Jeudi
+* Réalisation des modules:
+* CSS Flexbox --> Photo Gallery
+* Nutrition label 
+### Vendredi
+* 
