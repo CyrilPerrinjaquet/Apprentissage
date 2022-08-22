@@ -21,3 +21,9 @@
 * Réalisation des modules :
 * Quiz en HTML et CSS
 * Tribute page(Checklist a suivre sans avoir d'erreur)
+
+
+## semaine 2
+
+### Lundi
+* Commencement de mon objectif CV 
