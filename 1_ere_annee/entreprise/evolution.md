@@ -18,4 +18,6 @@
 * CSS Flexbox --> Photo Gallery
 * Nutrition label 
 ### Vendredi
-* 
+* Réalisation des modules :
+* Quiz en HTML et CSS
+* Tribute page(Checklist a suivre sans avoir d'erreur)
