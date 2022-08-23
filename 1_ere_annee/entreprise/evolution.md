@@ -27,3 +27,4 @@
 
 ### Lundi
 * Commencement de mon objectif CV 
+* Continuation du projet CV 
