@@ -29,3 +29,7 @@
 * Commencement de mon objectif CV 
 ### Mardi
 * Continuation du projet CV 
+### Mercredi et Jeudi
+* Découverte et présentation de l'EPSIC
+### Vendredi 
+* Continuation de mon objectif CV
