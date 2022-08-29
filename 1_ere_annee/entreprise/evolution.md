@@ -33,3 +33,8 @@
 * Découverte et présentation de l'EPSIC
 ### Vendredi 
 * Continuation de mon objectif CV
+
+## Semaine 3
+
+### Lundi 
+* Finition de mon CV et revue de Grid/Git 
