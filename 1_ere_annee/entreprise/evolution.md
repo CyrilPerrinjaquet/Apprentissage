@@ -60,3 +60,7 @@
 - Mise au point avec Melvyn sur le CV/web responsive
 - Commencement du projet Tronbinoscope style Peopleweek
 - Quelques ajout niveau outils pour le dev
+
+### Vendredi
+
+- Continuation de mon projet flex
