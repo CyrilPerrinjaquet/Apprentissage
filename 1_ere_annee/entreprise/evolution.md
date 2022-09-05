@@ -64,3 +64,10 @@
 ### Vendredi
 
 - Continuation de mon projet flex
+
+## Semaine 4
+
+### Lundi
+
+- Finition de mon projet tronbi
+- Début du freeCodeCamp JS(javascript)
