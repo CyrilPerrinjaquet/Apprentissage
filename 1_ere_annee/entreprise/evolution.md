@@ -71,3 +71,7 @@
 
 - Finition de mon projet tronbi
 - Début du freeCodeCamp JS(javascript)
+
+### Mardi
+
+- Continuation de ma formation JS sur FreeCodeCamp
