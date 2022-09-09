@@ -75,3 +75,8 @@
 ### Mardi
 
 - Continuation de ma formation JS sur FreeCodeCamp
+
+### Vendredi 
+
+- Continuation de ma formation sur freeCodeCamp
+- commencement/quasi finition de mon projet Horloge  
