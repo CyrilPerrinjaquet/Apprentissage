@@ -17,3 +17,24 @@
 - Anglais technique basique
 - Maths(chiffres significatifs)
 - Société tel que code civil et code des obligations
+
+## Semaine 2
+
+### Mercredi
+
+- Passage en revue des technologies réseau en entreprise et intra-pays/canton
+- système réseau en entreprise
+- OLPD,sécurité, profilage, profilage forcé
+- Donnée sur carte d'identité
+- extension de fichier et format
+- stocks de donnée structuré/non-structuré
+- continuation du projet avec Widmer
+
+### Jeudi
+
+- Energies renouvelables
+- Code civile Suisse et explication Article 1
+- Droits comparés
+- Lois étrangères à la Suisse(comparaison)
+- droits d'auteurs
+- Continuation des chiffres significatifs en maths
