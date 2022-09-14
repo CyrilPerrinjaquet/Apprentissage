@@ -79,4 +79,16 @@
 ### Vendredi 
 
 - Continuation de ma formation sur freeCodeCamp
-- commencement/quasi finition de mon projet Horloge  
+- commencement/quasi finition de mon projet Horloge 
+
+## Semaine 5
+
+### Lundi
+ - Continuation de ma formation JS 
+ - Merge de toutes mes branches 
+ - Regarder avec michèle et Diane pour le site
+
+ ### Mardi
+ - Check du JS avec Melvyn
+ - Quelques exercices en JS
+ - Commencement du Java
