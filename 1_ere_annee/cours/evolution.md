@@ -38,3 +38,26 @@
 - Lois étrangères à la Suisse(comparaison)
 - droits d'auteurs
 - Continuation des chiffres significatifs en maths
+
+
+## Semaine 3
+
+### Mercredi 
+- Revue des différents points de la semaine dernière(format, stocks de données) avec Maccaud
+- Vue des formats de fichier, signature et extension
+- Base de calcule(base de 2, 10) et exposant
+- Bases binaires, hexadécimal, décimal
+- Table ASCII
+- Revue des composants phyziques réseau
+- Modèle TCP/IP et OSI
+- Domaines de collision et diffusion
+- Continuation du projet LAN avec Widmer
+
+### Jeudi
+- Petite réponse a un mail en anglais
+- Code des obligations 
+- Code pénal
+- Art 1 du code civile
+- Doctrine, jurisprudence, Loi, Coutume, bienséance 
+- Petit passage en revue des grandeurs phyziques ainsi que l'inverse et opposé en Maths
+- Revue des chiffres significatifs 
