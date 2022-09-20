@@ -59,3 +59,5 @@
 - Code pénal
 - Art 1 du code civile
 - Doctrine, jurisprudence, Loi, Coutume, bienséance 
+- Petit passage en revue des grandeurs phyziques ainsi que l'inverse et opposé en Maths
+- Revue des chiffres significatifs 
