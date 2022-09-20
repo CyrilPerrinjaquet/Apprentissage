@@ -86,9 +86,14 @@
 ### Lundi
  - Continuation de ma formation JS 
  - Merge de toutes mes branches 
- - Regarder avec michèle et Diane pour le site
+ - Regarder avec michel et Diane pour le site
 
  ### Mardi
  - Check du JS avec Melvyn
  - Quelques exercices en JS
  - Commencement du Java
+ - Commencement de la modélisation de ma voiture
+
+ ### Vendredi
+ - Cours intensifs de java 
+ - Continuation de la modélisation de voiture en java
