@@ -97,3 +97,11 @@
  ### Vendredi
  - Cours intensifs de java 
  - Continuation de la modélisation de voiture en java
+
+  ## Semaine 6
+
+ ### Lundi Congé
+ - Mais finition de la modélisation de voiture en java
+ ### Mardi
+ - Modélisation d'un robot en java (en fonction des axes xy et l'orientation[Nord, Sud, Ouest et Est]) 
+ 
