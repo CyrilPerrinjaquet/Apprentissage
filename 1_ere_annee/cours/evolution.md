@@ -61,3 +61,22 @@
 - Doctrine, jurisprudence, Loi, Coutume, bienséance 
 - Petit passage en revue des grandeurs phyziques ainsi que l'inverse et opposé en Maths
 - Revue des chiffres significatifs 
+
+## Semaine 4
+
+### Mercredi
+- Adressage IP(les IP ainsi que les Masques)
+- Net_ID/ Host_ID / Subnet_ID
+- Conversion binaire, hexadécimal et décimal (Base 2, base 16. base 10)
+- Calculs en base 16/10/2
+- Données sensibles, Sécurité dans son ensemble
+- Analyse de risque 
+- Calibrage / Calibrage de risque
+-  Continuation du projet de LAN
+
+### Jeudi 
+- Revue de la grammaire du mail en anglais
+- Contrat d'apprentissage
+- Les Assurances et leurs rôles
+- Notations Ingénieur/scientifique en maths
+- Grandeurs phyziques(Symboles, préfixe, Puissance de 10, Unités)
