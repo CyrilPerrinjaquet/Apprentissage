@@ -104,4 +104,7 @@
  - Mais finition de la modélisation de voiture en java
  ### Mardi
  - Modélisation d'un robot en java (en fonction des axes xy et l'orientation[Nord, Sud, Ouest et Est]) 
+
+### Vendredi 
+- Commencement de la modélisation de mon groupe de musique en java
  
