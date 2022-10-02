@@ -80,3 +80,20 @@
 - Les Assurances et leurs rôles
 - Notations Ingénieur/scientifique en maths
 - Grandeurs phyziques(Symboles, préfixe, Puissance de 10, Unités)
+
+
+## Semaine 5
+
+### Mercredi 
+- Adressage IP
+- Masque réseau et de sous réseau
+- Analyse de risque et calibrage   de risque
+- Commencement de la brochure réseau valant  40% de l'examen du module
+- Format SVG
+- Dessin vectoriel
+- Valeur minimale et maximale d'un type de  donnée
+- Continuation du projet LAN
+
+### Jeudi
+- Continuation de la revue du contrat d'apprentissage 
+- Teste en Maths sur les grandeurs phyziques, unités, préfixes, symboles, chiffres inverses et opposés, chiffres significatifs
