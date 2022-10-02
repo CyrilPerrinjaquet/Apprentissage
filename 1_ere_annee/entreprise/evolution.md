@@ -109,3 +109,18 @@
 ### Vendredi 
 - Commencement de la modélisation de mon groupe de musique en java
  
+
+ ## Semaine 7
+ 
+ ### Lundi
+ - Continuation de la modélisation de mon groupe de musique en java
+ - Création du repository sur lequel je pourrais mettre a jour mon projet
+
+ ### Mardi
+ - Création de ma première PR(pull request)
+ - Avancement de mon projet  
+
+### Vendredi 
+-  Continuation de mon projet groupe de musique en java
+- Journée chez les multis 
+- Appris comment ils fonctionnaient, qu'est-ce qu'ils utilisaient comme outil et les offres en cours 
