@@ -124,3 +124,8 @@
 -  Continuation de mon projet groupe de musique en java
 - Journée chez les multis 
 - Appris comment ils fonctionnaient, qu'est-ce qu'ils utilisaient comme outil et les offres en cours 
+
+## Semaine 8
+
+### Lundi
+- Continuation de la modélisation de mon groupe de musique en java et bon avancement 
