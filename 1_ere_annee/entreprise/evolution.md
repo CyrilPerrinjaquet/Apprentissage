@@ -129,3 +129,8 @@
 
 ### Lundi
 - Continuation de la modélisation de mon groupe de musique en java et bon avancement 
+
+### Mardi
+- Continuation de mon projet en java 
+- Grosse mise au point sur les principes de bases de java ainsi que les best-practises (ex. clean le code, justifier l'action et savoir POURQUOI on l'a fait comme ça et pas autrement, JavaDoc, boucles, classe abstract)
+- ArrayList et Hashmap(faut que je repasse dessus parce que pas totalement encore aquis)
