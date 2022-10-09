@@ -134,3 +134,8 @@
 - Continuation de mon projet en java 
 - Grosse mise au point sur les principes de bases de java ainsi que les best-practises (ex. clean le code, justifier l'action et savoir POURQUOI on l'a fait comme ça et pas autrement, JavaDoc, boucles, classe abstract)
 - ArrayList et Hashmap(faut que je repasse dessus parce que pas totalement encore aquis)
+
+### Vendredi 
+- Contiuation de mon projet en java
+ - Merge de ma première PR et création d'une nouvelle PR + branche
+ - [Projet Java/MusicBand] Ajout de javaDocs + méthode randomNotes + clean le code 
