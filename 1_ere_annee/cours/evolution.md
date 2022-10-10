@@ -96,4 +96,28 @@
 
 ### Jeudi
 - Continuation de la revue du contrat d'apprentissage 
-- Teste en Maths sur les grandeurs phyziques, unités, préfixes, symboles, chiffres inverses et opposés, chiffres significatifs
+- Test en Maths sur les grandeurs phyziques, unités, préfixes, symboles, chiffres inverses et opposés, chiffres significatifs
+- Commencement de la revue de pythagore et son théorème
+
+## Semaine 6
+
+### Mercredi 
+- Contiuation de l'adressage IP
+- Segmentation Logique
+- Introduction au Subnetting(Déterminer les besoins [inclure les réserves], 
+Calculer et réserver le nombre de bits nécessaires [Host_ID et Subnet_ID], 
+Définir la classe et le Net_ID,
+Déterminer le masque
+[réseau et sous-réseau], 
+Calculer les adresses de chaque sous-réseau, 
+Réaliser l’annuaire) 
+- Texte fondateurs d'internet(RFC 2016, request for comment etc...)
+- Introduction a python avec Maccaud pour les types de données
+- Transposition d'excel et différents supports pour les données(valeur minimal, maximale)
+- Commencement de la brochure informatique, cette brochure vaut 40% de la note finale de l'examen du module 231
+
+### Jeudi 
+- Prononciation en anglais 
+- Dessin de presse (Interprétation)
+- Contrat d'apprentissage et démarche à suivre[Situation juridique réelle et simplifiée]
+- Continuation de pythagore et calcul de la longueur d'un écran 16:9 avec pythagore
