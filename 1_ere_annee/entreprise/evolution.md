@@ -139,3 +139,15 @@
 - Contiuation de mon projet en java
  - Merge de ma première PR et création d'une nouvelle PR + branche
  - [Projet Java/MusicBand] Ajout de javaDocs + méthode randomNotes + clean le code 
+
+ ## Semaine 9 
+
+ ### Lundi
+ - Continuation de mon projet java 
+ - J'ai ajouter les javaDocs et clean le Main
+
+ ### Mardi
+ - Continuation de mon projet java 
+ - Ajout de javadocs pour les attributs MemberBand 
+ - Commencement des Tests unitairs 
+ - Test de deux méthodes dans la classe NoteTest  
