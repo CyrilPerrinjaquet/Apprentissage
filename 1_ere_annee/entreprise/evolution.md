@@ -155,7 +155,18 @@
  ### Vendredi
  - Continuation de mon projet en java 
  - Continuation des tests unitaires
-
+- Présentation de mon projet java à la team pendant la tactique
  ## Semaine 10
  
  ### Vacances 😊
+
+ ## Semaine 11
+ 
+ ### Lundi
+ - Continuation de mon projet java 
+ - Ajouts de différents tests
+ - Présentation de moi et mon parcours avec des stagiairs
+
+ ### Mardi
+ - Continuation de mon projet java
+ - Ajouts de tests et fonction
