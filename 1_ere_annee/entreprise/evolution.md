@@ -151,3 +151,7 @@
  - Ajout de javadocs pour les attributs MemberBand 
  - Commencement des Tests unitairs 
  - Test de deux méthodes dans la classe NoteTest  
+ 
+ ### Vendredi
+ - Continuation de mon projet en java 
+ - Continuation des tests unitaires
