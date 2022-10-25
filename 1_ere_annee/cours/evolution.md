@@ -121,3 +121,16 @@ Réaliser l’annuaire)
 - Dessin de presse (Interprétation)
 - Contrat d'apprentissage et démarche à suivre[Situation juridique réelle et simplifiée]
 - Continuation de pythagore et calcul de la longueur d'un écran 16:9 avec pythagore
+
+## Semaine 7
+
+### Mercredi
+- Revue des types en python et max-value et min-value 
+- Revue la segmentation logique
+- Commencement de notre projet segmentation logique
+- Continuation de notre projet LAN
+- Vue du 2ème thème de la brochure sécurité informatique 
+
+### Jeudi
+- Tests en anglais, LACO (Langue et communication) et en droit (Contrat d'apprentissage + Situation juridique réel et simplifié)
+- Vue en maths des équations à une inconnue 
