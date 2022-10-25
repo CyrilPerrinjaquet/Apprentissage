@@ -170,3 +170,6 @@
  ### Mardi
  - Continuation de mon projet java
  - Ajouts de tests et fonction
+ - Généricité (faire en sorte que une méthode soit commune pour toutes les classes)[pas besoin de refaire la même méthode, optimisation, tri]
+ - Ajouts de l'enum de keys qui renvoit les clés de musique (sol, fa, ut)
+- Ajouts de quelques objectifs
