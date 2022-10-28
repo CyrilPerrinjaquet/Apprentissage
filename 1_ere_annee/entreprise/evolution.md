@@ -173,3 +173,17 @@
  - Généricité (faire en sorte que une méthode soit commune pour toutes les classes)[pas besoin de refaire la même méthode, optimisation, tri]
  - Ajouts de l'enum de keys qui renvoit les clés de musique (sol, fa, ut)
 - Ajouts de quelques objectifs
+
+### Mercredi 
+- Continuation de mon projet java
+- Ajouts de méthodes pairs et impairs avec leur tests, javadocs respectifs 
+
+### Jeudi
+- Continuation de mon projet java
+- Clean les méthodes tout bouger dans une classe
+- Revu un peu mes cours 
+
+### Vendredi
+- Continuation de mon projet java
+- Fait le petit bonus qui était de faire une méthode qui retourne l'hypothénuse [liaison avec l'exercice sur le théorème de pythagore] et ajouté les tests respectifs a la méthode 
+- Commencement des tests sur la méthode getArray() mais pas terminé
