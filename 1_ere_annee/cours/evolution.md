@@ -134,3 +134,7 @@ Réaliser l’annuaire)
 ### Jeudi
 - Tests en anglais, LACO (Langue et communication) et en droit (Contrat d'apprentissage + Situation juridique réel et simplifié)
 - Vue en maths des équations à une inconnue 
+
+## Semaine 8
+
+### Vacances 😊
