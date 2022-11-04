@@ -142,3 +142,20 @@ Réaliser l’annuaire)
 ## Semaine 9 
 
 ### Vancances 😊
+
+## Semaine 10
+
+### Mercredi 
+- Ecriture CSV
+- Importation/Exportation de fichiers CSV dans excel
+- Modélisation de bases de données (mySQL, Laragon)
+- Correction porjet PME
+- Modèle OSI couche 1 (support de transmission)
+- Avancement sur le projet LAN
+- Vue des 2 prochains thèmes de la brochure de sécurité([Utilisation de la webcam, du micro, de la géolocalisation, etc.]
+[Mises à jour des programmes et antivirus])
+
+
+### Jeudi
+- Rendu des tests en anglais, SOCI, LACO ; respectivement ; 6, 4.5, 5
+- Pas de cours de maths car prof absente
