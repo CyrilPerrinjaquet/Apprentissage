@@ -191,7 +191,17 @@
 ## Semaine 12
 
 ### Lundi
-- Contiunation de mon projet en java 
+- Continuation de mon projet en java 
 - Clean le code 
 - Exercice de généricité 
 - Objectifs complétés 
+
+### Mardi
+- Commencement du JS
+- Petits exercices en JS sur les int et strings
+
+### Vendredi
+- Continuation du JS 
+- Continuation des exercices strings  
+- Refactor le code
+- Finition de la méthode protect_email()
