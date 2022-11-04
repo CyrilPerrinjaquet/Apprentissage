@@ -187,3 +187,21 @@
 - Continuation de mon projet java
 - Fait le petit bonus qui était de faire une méthode qui retourne l'hypothénuse [liaison avec l'exercice sur le théorème de pythagore] et ajouté les tests respectifs a la méthode 
 - Commencement des tests sur la méthode getArray() mais pas terminé
+
+## Semaine 12
+
+### Lundi
+- Continuation de mon projet en java 
+- Clean le code 
+- Exercice de généricité 
+- Objectifs complétés 
+
+### Mardi
+- Commencement du JS
+- Petits exercices en JS sur les int et strings
+
+### Vendredi
+- Continuation du JS 
+- Continuation des exercices strings  
+- Refactor le code
+- Finition de la méthode protect_email()
