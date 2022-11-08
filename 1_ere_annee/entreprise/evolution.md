@@ -214,3 +214,9 @@
 - Continuation et finition des exercices strings
 - Finition de la méthode valid_email()
 - Point au niveau des cours (Tout roule ma poule)
+
+### Mardi
+- Continuation du JS
+- Refactor les différents exercices (strings, int)
+- Started the array exercices 
+- Point au niveau de l'entreprise (Tout roule ma poule)
