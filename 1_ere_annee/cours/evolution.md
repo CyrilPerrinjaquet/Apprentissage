@@ -159,3 +159,13 @@ Réaliser l’annuaire)
 ### Jeudi
 - Rendu des tests en anglais, SOCI, LACO ; respectivement ; 6, 4.5, 5
 - Pas de cours de maths car prof absente
+
+
+## Semaine 11
+
+### Mercredi 
+- Date, datetime, Timestamp en CSV
+- MCD (Modèle conceptuel de donnée)
+- Correction du questionnaire n°5
+- Modèle OSI couche 2 (Liaison)
+- Rendre les documents (PV, Gantt, Eval, Questionnaire)pour samedi dernier délai
