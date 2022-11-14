@@ -220,3 +220,8 @@
 - Refactor les différents exercices (strings, int)
 - Started the array exercices 
 - Point au niveau de l'entreprise (Tout roule ma poule)
+
+### Vendredi
+- Continuation du JS
+- Refactor le code et clean
+- Continuer sur les arrays
