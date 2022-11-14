@@ -205,3 +205,23 @@
 - Continuation des exercices strings  
 - Refactor le code
 - Finition de la méthode protect_email()
+
+
+## Semaine 13
+
+### Lundi
+- Continuation du JS
+- Continuation et finition des exercices strings
+- Finition de la méthode valid_email()
+- Point au niveau des cours (Tout roule ma poule)
+
+### Mardi
+- Continuation du JS
+- Refactor les différents exercices (strings, int)
+- Started the array exercices 
+- Point au niveau de l'entreprise (Tout roule ma poule)
+
+### Vendredi
+- Continuation du JS
+- Refactor le code et clean
+- Continuer sur les arrays
