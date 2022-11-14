@@ -169,3 +169,11 @@ Réaliser l’annuaire)
 - Correction du questionnaire n°5
 - Modèle OSI couche 2 (Liaison)
 - Rendre les documents (PV, Gantt, Eval, Questionnaire)pour samedi dernier délai
+
+### Jeudi 
+- Comparatif et superlatif
+- Fiche "Dieux du stade" (article de presse)
+- Forme des contrats
+- Validité des contrats
+- Annulation des contrats (pour dol, lésion, erreur essentielle, crainte fondée)
+- PPMC et PGDC
