@@ -177,3 +177,29 @@ Réaliser l’annuaire)
 - Validité des contrats
 - Annulation des contrats (pour dol, lésion, erreur essentielle, crainte fondée)
 - PPMC et PGDC
+
+## Semaine 12
+
+### Mercredi 
+- MLD : Modélisation d'une personne
+- MPD : Modélisation d'une personne
+- Correction Questionnaire No 4
+- Projet Mediatis
+- Introduction aux scripts
+- Fichier Programme & Processus
+- Thème Mots de passe (Brochure)
+
+### Jeudi
+- Révision comparatif et superlatif
+- Present continuous
+- Fiche & correction "Dieux du stade"
+- Factorisation de polynômes
+- Mise en évidence
+- Identité remarquable
+- Somme-produit
+- Discriminateur
+
+### Tests semaine 13 : 
+- Test sur les contrats (SOCI)
+- Test en anglais (UNIT 2)
+- Test sur le dessin de presse reçu (LACO)
