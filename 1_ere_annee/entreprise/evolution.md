@@ -234,3 +234,8 @@
 - Ecris les tests manquants
 - Vraiment bien avancé sur les arrays
 - Continuation de la brochure informatique(cours)  
+
+### Mardi
+- Continuation du JS
+- Continuation de la brochure informatique(cours)
+- Petit CheQpoint (pas l'officiel), pour la fin de la période d'essai    
