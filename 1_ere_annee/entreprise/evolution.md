@@ -239,3 +239,7 @@
 - Continuation du JS
 - Continuation de la brochure informatique(cours)
 - Petit CheQpoint (pas l'officiel), pour la fin de la période d'essai    
+
+### Vendredi 
+- Continuation du JS
+- Continuation de la brochure informatique(cours)
