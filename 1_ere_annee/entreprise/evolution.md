@@ -225,3 +225,21 @@
 - Continuation du JS
 - Refactor le code et clean
 - Continuer sur les arrays
+
+## Semaine 14
+
+### Lundi 
+- Continuation du JS
+- Finit les strings ENTIERMENT
+- Ecris les tests manquants
+- Vraiment bien avancé sur les arrays
+- Continuation de la brochure informatique(cours)  
+
+### Mardi
+- Continuation du JS
+- Continuation de la brochure informatique(cours)
+- Petit CheQpoint (pas l'officiel), pour la fin de la période d'essai    
+
+### Vendredi 
+- Continuation du JS
+- Continuation de la brochure informatique(cours)
