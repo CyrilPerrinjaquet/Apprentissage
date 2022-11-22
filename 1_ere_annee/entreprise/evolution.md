@@ -250,3 +250,8 @@
 - Full JS
 - Arrays, date, strings, passé un peu en revue tout ca
 - Finit et revu le advanced exercise
+
+### Mardi
+- Continuation du JS
+- Arrays, date, strings
+- Rempli les objectifs
