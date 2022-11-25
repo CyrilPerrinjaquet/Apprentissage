@@ -203,3 +203,17 @@ Réaliser l’annuaire)
 - Test sur les contrats (SOCI)
 - Test en anglais (UNIT 2)
 - Test sur le dessin de presse reçu (LACO)
+
+## Semaine 13
+
+### Mercredi 
+- MPD
+- Création des clés dans mySQL
+- Projet MEDIATIS [Matrice des jonctions, liste du matériel, plan hiérarchique]
+- Indroduction aux scripts Powershell
+- Sessions, navigations Internet [Brochure]
+
+### Jeudi
+- [Test] Anglais sur l'untié 2
+- [Test] Formes et validité des contrats
+- Visionnage d'un film (Derrière nos écrans de fumée)
