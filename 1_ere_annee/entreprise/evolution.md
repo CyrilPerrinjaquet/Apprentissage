@@ -255,3 +255,7 @@
 - Continuation du JS
 - Arrays, date, strings
 - Rempli les objectifs
+
+### Vendredi 
+- Continuation du JS
+- Arrays et maps
