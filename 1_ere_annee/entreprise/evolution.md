@@ -259,3 +259,10 @@
 ### Vendredi 
 - Continuation du JS
 - Arrays et maps
+
+## Semaine 16
+
+### Lundi
+- Avancement de la brochure informatique  
+- Avancement du dossier Maccaud et il commence à avoir une sacré gueule
+- Continuation du JS (jouer avec les Maps, finds, sorts)
