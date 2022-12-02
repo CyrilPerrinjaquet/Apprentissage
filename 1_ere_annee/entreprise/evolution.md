@@ -266,3 +266,11 @@
 - Avancement de la brochure informatique  
 - Avancement du dossier Maccaud et il commence à avoir une sacré gueule
 - Continuation du JS (jouer avec les Maps, finds, sorts)
+
+### Mardi
+- Avancement de la brochure informatique
+- Continuation du JS (Continuer avec les filter, finds)
+
+### Vendredi
+- Avancement de la brochure informatique
+- Continuation du JS (Continuer avec la manipulation des arrays/maps et une méthode avec some())
