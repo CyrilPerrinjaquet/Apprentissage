@@ -217,3 +217,24 @@ Réaliser l’annuaire)
 - [Test] Anglais sur l'untié 2
 - [Test] Formes et validité des contrats
 - Visionnage d'un film (Derrière nos écrans de fumée)
+- Annonce [Test] de maths sur Pythagore, Equations, Fractions
+
+## Semaine 14
+
+### Mercredi
+- Dictionnaire de données
+- Exportation (depuis MySQL) d'une table en fichier CSV
+- Importation dans MySQL de fichier CSV créé en Python
+- Correction Questionnaire No 8
+- Composant nécessaire à une connexion réseau
+- DHCP
+- DNS
+- Firewall
+- NAT
+- Alias
+- Messageries (Réseaux sociaux)
+
+### Jeudi
+- Début chapitre 3 Exercices 1-6 [anglais]
+- La communauté familiale Ch.2 p.52 [droit]
+[Test] Fractions, Équations, Pythagore
