@@ -274,3 +274,18 @@
 ### Vendredi
 - Avancement de la brochure informatique
 - Continuation du JS (Continuer avec la manipulation des arrays/maps et une méthode avec some())
+
+## Semaine 17
+
+### Lundi
+- Continuation du JS (Continuation des maps, sorts, find, filter)
+- Avancement de la brochure informatique 
+
+### Mardi
+- Continuation du JS (Continuation des maps, sorts, find, filter avec sort)
+- Avancement de la brochure informatique 
+
+### Vendredi
+- Tournage clip de rap (c'est pas une blague)
+- Avancement vite fait de ma brochure informatique 
+- Après-midi à la log qui sont hyper sympas
