@@ -238,3 +238,23 @@ Réaliser l’annuaire)
 - Début chapitre 3 Exercices 1-6 [anglais]
 - La communauté familiale Ch.2 p.52 [droit]
 [Test] Fractions, Équations, Pythagore
+
+## Semaine 15
+
+### Mercredi 
+- Requêtes SQL (Opérateurs)
+[ANNONCE] [EXAMEN] : Module 117, le 21 décembre 2022
+[ANNONCE] [EXAMEN] : Module 231, le 21 décembre 2022
+- Réseaux sociaux
+- Correction Questionnaire No 10
+- Dépannage
+- Variables dans PowerShell
+
+### Jeudi
+[ANNONCE] [TEST] [anglais]: Ch. 3, le 12 janvier 2023 
+- Ch. 3 p.22-23 [anglais]
+- [ANNONCE] [TEST] [LACO] : Éthique, 12 janvier 2023
+- L'autorité parentale (Ch.3 p.53-54 du chapitre 2) [LACO]
+- Rendu et correction du test [Maths]
+- Triangles [Maths]
+- Unités de surface [Maths] 
