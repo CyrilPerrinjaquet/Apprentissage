@@ -305,3 +305,9 @@
 ### Vendredi 
 - CIE (Cours inter entreprise)
 - Requêtes SQL, exercices en relation avec les requêtes
+
+## Semaine 19
+
+### Lundi
+- CIE (Cours inter entreprise)
+- Requêtes SQL, exercices en relation avec les requêtes
