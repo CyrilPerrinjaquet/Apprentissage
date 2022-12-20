@@ -258,3 +258,18 @@ Réaliser l’annuaire)
 - Rendu et correction du test [Maths]
 - Triangles [Maths]
 - Unités de surface [Maths] 
+
+## Semaine 16
+
+### Mercredi
+- Importation/exportation de tables/bases de données dans HeidiSQL en ligne de commande
+- Correction casus dépannage
+- Révisions Examen
+- Continuation des exercices sur les variables
+- Vu le thème des voyages pour la brochure informatique
+
+### Jeudi
+- Continuation de l'unité 3 en anglais [anglais]
+- Vu tout ce qui tournait autour de l'éthique [LACO]
+- Pas de droit 
+- Continuer les airs sur différentes formes avec des exercices [Maths]
