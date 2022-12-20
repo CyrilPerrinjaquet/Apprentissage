@@ -289,3 +289,19 @@
 - Tournage clip de rap (c'est pas une blague)
 - Avancement vite fait de ma brochure informatique 
 - Après-midi à la log qui sont hyper sympas
+
+
+## Semaine 18
+
+### Lundi
+- CIE (Cours inter entreprise)
+- SQL, Requêtes, Histoire du SQL, Présentation du déroulement ces cours
+
+### Mardi
+- Continuation sur le Javascript
+- Reduce()
+- Continuation de la brochure
+
+### Vendredi 
+- CIE (Cours inter entreprise)
+- Requêtes SQL, exercices en relation avec les requêtes
