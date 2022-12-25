@@ -311,3 +311,14 @@
 ### Lundi
 - CIE (Cours inter entreprise)
 - Requêtes SQL, exercices en relation avec les requêtes
+
+### Mardi
+- Revue de la todo-list
+- Gros avancement dessus et amélioration
+- Révision pour les examens
+
+### Vendredi
+- CIE (Cours inter entreprise)
+- Révision du SQL
+- Quizz SQL w3schools
+- Exercices pratiques et techniques en relation avec les examens
