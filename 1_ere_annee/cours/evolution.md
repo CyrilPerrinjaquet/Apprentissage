@@ -273,3 +273,19 @@ Réaliser l’annuaire)
 - Vu tout ce qui tournait autour de l'éthique [LACO]
 - Pas de droit 
 - Continuer les airs sur différentes formes avec des exercices [Maths]
+
+## Semaine 17
+
+### Mercredi
+- Examen [Module117]
+- Examen [Module231]
+- Continuation des exercices sur les variables / opérateurs
+- Quelques révisions pour les examens
+- Modifications des métadonnées (ID3 pour les fichiers MP3)
+
+### Jeudi
+- Continuation de l'anglais sur l'unité 3 [Anglais]
+- Continuation de l'éthique [LACO]
+- Vue des différentes formules pour les formes géométriques planes (Aire et périmètre) [Maths]
+- Pas de droit
+[Annonce] [Test] [Maths] 12 janvier 2023 sur les formes, pythagore et la géométrie dans sa globalité 
