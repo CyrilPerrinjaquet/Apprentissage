@@ -322,3 +322,7 @@
 - Révision du SQL
 - Quizz SQL w3schools
 - Exercices pratiques et techniques en relation avec les examens
+
+## Semaine 20
+
+### Vacances 😊
