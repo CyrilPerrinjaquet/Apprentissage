@@ -289,3 +289,11 @@ Réaliser l’annuaire)
 - Vue des différentes formules pour les formes géométriques planes (Aire et périmètre) [Maths]
 - Pas de droit
 [Annonce] [Test] [Maths] 12 janvier 2023 sur les formes, pythagore et la géométrie dans sa globalité 
+
+## Semaine 18
+
+### Vacances 😊
+
+## Semaine 19
+
+### Vacances 😊
