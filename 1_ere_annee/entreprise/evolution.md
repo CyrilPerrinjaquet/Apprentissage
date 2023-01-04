@@ -322,3 +322,16 @@
 - Révision du SQL
 - Quizz SQL w3schools
 - Exercices pratiques et techniques en relation avec les examens
+## Semaine 20 
+### Vacances 😊
+
+
+## Semaine 21
+
+### Lundi
+- Ferié
+
+### Mardi
+- Avancement sur la todo-list en Javascript
+- Quelques petites idées à faire en plus pour mardi pro
+- Objectifs de la semaine
