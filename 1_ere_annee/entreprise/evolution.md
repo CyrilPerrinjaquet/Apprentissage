@@ -336,3 +336,7 @@
 - Avancement sur la todo-list en Javascript
 - Quelques petites idées à faire en plus pour mardi pro
 - Objectifs de la semaine
+
+### Mercredi
+- Avancement sur la todo-list en Javascript
+- Search Bar, CheckBox et passer d'un array à un onject fait ✅
