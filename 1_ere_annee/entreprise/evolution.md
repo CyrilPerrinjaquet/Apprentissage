@@ -339,4 +339,17 @@
 
 ### Mercredi
 - Avancement sur la todo-list en Javascript
-- Search Bar, CheckBox et passer d'un array à un onject fait ✅
+- Search Bar, CheckBox et passer d'un array à un object fait ✅
+
+### Jeudi
+- Avancement sur la todo-list en Javascript
+- Fix quelques trucs qui allaient pas
+- Quantité
+
+### Vendredi 
+- Avancement sur la todo-list en Javascript
+- Ajouter des filtres pour savoir si c'était check ou pas
+- Search un item par nom
+- Mis en place une limite pour le nombre de caractère
+- Et fix le CSS
+ 
