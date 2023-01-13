@@ -360,3 +360,8 @@
 - Examen final sur SQL
 
 ### Mardi
+- Fini la todo-list
+- Continuer le Javascript
+
+### Vendredi
+- Commencer le projet de Jérôme
