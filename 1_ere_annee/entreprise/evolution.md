@@ -353,3 +353,15 @@
 - Mis en place une limite pour le nombre de caractère
 - Et fix le CSS
  
+## Semaine 22
+
+### Lundi
+- CIE (Cours inter-entreprise)
+- Examen final sur SQL
+
+### Mardi
+- Fini la todo-list
+- Continuer le Javascript
+
+### Vendredi
+- Commencer le projet de Jérôme
