@@ -254,7 +254,7 @@ Réaliser l’annuaire)
 [ANNONCE] [TEST] [anglais]: Ch. 3, le 12 janvier 2023 
 - Ch. 3 p.22-23 [anglais]
 - [ANNONCE] [TEST] [LACO] : Éthique, 12 janvier 2023
-- L'autorité parentale (Ch.3 p.53-54 du chapitre 2) [LACO]
+- L'autorité parentale (Ch.3 p.53-54 du chapitre 2) [SOCI]
 - Rendu et correction du test [Maths]
 - Triangles [Maths]
 - Unités de surface [Maths] 
@@ -270,8 +270,8 @@ Réaliser l’annuaire)
 
 ### Jeudi
 - Continuation de l'unité 3 en anglais [anglais]
-- Vu tout ce qui tournait autour de l'éthique [LACO]
-- Pas de droit 
+- Vu tout ce qui tournait autour de l'éthique [SOCI]
+- Pas de [LACO] 
 - Continuer les airs sur différentes formes avec des exercices [Maths]
 
 ## Semaine 17
@@ -285,9 +285,9 @@ Réaliser l’annuaire)
 
 ### Jeudi
 - Continuation de l'anglais sur l'unité 3 [Anglais]
-- Continuation de l'éthique [LACO]
+- Continuation de l'éthique [SOCI]
 - Vue des différentes formules pour les formes géométriques planes (Aire et périmètre) [Maths]
-- Pas de droit
+- Pas de [LACO]
 [Annonce] [Test] [Maths] 12 janvier 2023 sur les formes, pythagore et la géométrie dans sa globalité 
 
 ## Semaine 18
