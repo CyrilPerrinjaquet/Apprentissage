@@ -297,3 +297,22 @@ Réaliser l’annuaire)
 ## Semaine 19
 
 ### Vacances 😊
+
+## Semaine 20
+
+### Mercredi
+
+- Avancement autonomne sur le dossier de Maccaud
+- Introduction au module 293
+- Histoire d'Internet
+- Questionnaire sur l'histoire d'Internet
+- Vu des boucles et conditions (while, do-while, for)
+- Introduction au module 319
+- Historique des languages de programmation  
+
+### Jeudi
+- Test SOCI -> éthique
+- Test Anglais -> Unité 3
+- Test Maths -> pythagor, formules geométriques
+- Droit de l'enfant [SOCI]
+- Maths introduction aux volumes
