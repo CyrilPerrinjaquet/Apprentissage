@@ -369,3 +369,9 @@
 ## Semaine 23
 
 ### Lundi
+- Continuation du projet de Jérôme
+- new FormData 
+- Premier ticket JS est fait
+- CSS terminé 
+
+### Mardi
