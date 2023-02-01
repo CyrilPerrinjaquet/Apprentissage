@@ -393,3 +393,22 @@
 
 ### Vendredi 
 - (CIE) Cours inter-entreprise à Boveresses
+
+## Semaine 25
+
+### Lundi
+- Continuation du projet de Jérôme
+- Continuation du storing Data
+- Proposition du Ticket jira
+
+### Mardi
+- Continuation du projet de Jérôme
+- Finition du storing Data
+- Commencement du ticket Jira en JS
+- Amélioration et redirection pour le ticket JS
+- Affichage des nouvelles stats
+
+### Mercredi
+- Continuation du projet de Jérôme
+- Continuation du ticket jira en JS
+- Compléter les choses discutées la veille
