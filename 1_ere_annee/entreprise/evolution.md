@@ -375,3 +375,9 @@
 - CSS terminé 
 
 ### Mardi
+- Continuation du projet de Jérôme
+- ticket JS continuation
+
+### Vendredi
+- Continuation du projet de Jérôme
+- Ticket JS continuation
