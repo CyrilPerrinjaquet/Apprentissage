@@ -381,3 +381,15 @@
 ### Vendredi
 - Continuation du projet de Jérôme
 - Ticket JS continuation
+
+## Semaine 24
+
+### Lundi 
+- (CIE) Cours inter-entreprise à Boveresses
+
+### Mardi
+- Affichage des ranks
+- Storing dans le localStorage
+
+### Vendredi 
+- (CIE) Cours inter-entreprise à Boveresses
