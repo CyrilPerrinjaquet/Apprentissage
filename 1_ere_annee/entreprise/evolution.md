@@ -412,3 +412,13 @@
 - Continuation du projet de Jérôme
 - Continuation du ticket jira en JS
 - Compléter les choses discutées la veille
+
+### Jeudi
+- Continuation du projet de Jérôme
+- Créer la table en HTML et afficher les données grâce au JS
+- Meet up Apprentis v2 🥳
+
+### Vendredi
+- Continuation du projet de Jérôme
+- Créer les nouvelles PRs
+- Essayer de résoudre les problèmes de tris de la table
