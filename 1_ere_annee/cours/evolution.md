@@ -316,3 +316,18 @@ Réaliser l’annuaire)
 - Test Maths -> pythagor, formules geométriques
 - Droit de l'enfant [SOCI]
 - Maths introduction aux volumes
+
+## Semaine 21
+
+### Mercredi
+- Installation d'un serveur web local
+- Activité : receler les avantages et inconvénients de deux sites au même but
+- Exercices sur les boucles et conditions
+- Application pratique n°1 -> module 319
+
+### Jeudi
+- Rendu du test [Anglais]
+- Début du chapitre 4 [Anglais]
+- Rendu du test [LACO]
+- [SOCI] => Casus
+- [Maths] Volumes, exercices e) f) g) j)
