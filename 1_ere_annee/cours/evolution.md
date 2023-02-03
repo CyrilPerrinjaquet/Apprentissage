@@ -331,3 +331,25 @@ Réaliser l’annuaire)
 - Rendu du test [LACO]
 - [SOCI] => Casus
 - [Maths] Volumes, exercices e) f) g) j)
+
+## Semaine 22
+
+### Mercredi
+- Introduction au module 164
+- Discussion sur les bons et mauvais sujets à traiter
+- Recherche de sujets
+- Introduction aux balises 
+- Structuration d'une page web
+- Premiers exercices
+- Présentation du TP
+- Début du travail sur le projet
+- Représentation graphique de Nassi-Shneidermann et exemples
+### Jeudi
+- Chapitre 4, p.30-31 [Anglais]
+- [Test] : Résumé dans 3 semaines [LACO]
+- Introduction au résumé [LACO]
+- Ch. 7 p.2-4 [LACO]
+- Les composantes de la communication (MEM p.199) [LACO]
+- [Test] Le jeune et ses parents dans 3 semaines [SOCI]
+- [Maths] Volumes, Exercice i) j)
+- [Maths] Introduction à la trigonométrie
