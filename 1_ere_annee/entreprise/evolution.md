@@ -422,3 +422,17 @@
 - Continuation du projet de Jérôme
 - Créer les nouvelles PRs
 - Essayer de résoudre les problèmes de tris de la table
+
+## Semaine 26
+
+### Lundi
+- Cours inter-entreprise (CIE)
+
+### Mardi
+- Continuation du projet de jérôme
+- Essai du sort
+- Tableau HTML
+- Pas de nouveau objectifs
+
+### Vendredi
+- Cours inter-entreprise (CIE)
