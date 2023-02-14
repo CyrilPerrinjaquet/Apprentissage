@@ -445,12 +445,14 @@
 - Grosse logique de concept d'isolation
 - Commencement de la doc pour toutes les fonctions
 - Enlevé le CSS du tableau
+- Origin R. Description FR, première mise en prod 😎
 
 ### Mardi
 - Continuation du projet de Jérôme
 - Finition de la doc pour les fonctions 
 - Sort complètement fonctionnel
 - QoQa Academy TypeScript
+- Origin R. Description DE, deuxième mise en prod 😎
 ### Mercredi
 - 
 - 
