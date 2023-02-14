@@ -353,3 +353,25 @@ Réaliser l’annuaire)
 - [Test] Le jeune et ses parents dans 3 semaines [SOCI]
 - [Maths] Volumes, Exercice i) j)
 - [Maths] Introduction à la trigonométrie
+
+## Semaine 23
+
+### Mercredi 
+- Rendu des notes du module 162
+- Création des cahiers des charges de vos projets
+- Avancement sur le MCD et MLD du projet
+- Rendu des notes des modules 117 et 231
+- Liste à puces non-ordonnées
+- Menu de navigation
+- Continuation du projet serveur PS
+- Application pratique No 2
+- Correction exercice 1
+
+### Jeudi
+- Chapitre 4, p.32-33 [Anglais]
+- [Annonce] [Test] Résumé, le 23 février 2023 date incertaine [LACO]
+- Exercice de résumé sur les concessions de casino en Valais [LACO]
+- Classeur : Exercice 3 page 4 [LACO]
+- [Annonce] [Test] : Le jeune et ses parents, le 23 février 2023 date incertaine
+- Trigonométrie [Maths]
+- Exercices a) c) [Maths]
