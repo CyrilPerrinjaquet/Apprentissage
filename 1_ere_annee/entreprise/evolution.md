@@ -436,3 +436,32 @@
 
 ### Vendredi
 - Cours inter-entreprise (CIE)
+
+## Semaine 27
+
+### Lundi
+- Continuation du projet de Jérôme
+- Sort dans le JS
+- Grosse logique de concept d'isolation
+- Commencement de la doc pour toutes les fonctions
+- Enlevé le CSS du tableau
+
+### Mardi
+- Continuation du projet de Jérôme
+- Finition de la doc pour les fonctions 
+- Sort complètement fonctionnel
+- QoQa Academy TypeScript
+### Mercredi
+- 
+- 
+- 
+
+### Jeudi
+- 
+- 
+- 
+
+### Vendredi
+- 
+- 
+- 
