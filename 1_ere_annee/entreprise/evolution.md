@@ -454,9 +454,8 @@
 - QoQa Academy TypeScript
 - Origin R. Description DE, deuxième mise en prod 😎
 ### Mercredi
-- 
-- 
-- 
+- Journée stagiaire, j'ai aidé Sara pour l'organisation et la présentation
+- Continuation du projet de jérôme
 
 ### Jeudi
 - 
