@@ -375,3 +375,8 @@ Réaliser l’annuaire)
 - [Annonce] [Test] : Le jeune et ses parents, le 23 février 2023 date incertaine
 - Trigonométrie [Maths]
 - Exercices a) c) [Maths]
+
+
+## Semaine 24
+
+### Vacances #Relâches
