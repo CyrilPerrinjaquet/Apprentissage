@@ -465,3 +465,13 @@
 - Présenter Origin R. 
 - J'ai finis le contenu du formulaire en CSS 
 - Continuer le projet de Jérôme
+
+## Semaine 28 
+
+### Lundi 
+- CIE (Cours inter-entreprise)
+- Fini le cours inter-entreprise
+- Examen de fin de cours inter
+
+### Mardi 
+- 
