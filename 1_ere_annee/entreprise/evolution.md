@@ -458,11 +458,10 @@
 - Continuation du projet de jérôme
 
 ### Jeudi
-- 
-- 
-- 
+- Continuer le projet de Jérôme
+- Fini le layout de la page avec grid
 
 ### Vendredi
-- 
-- 
-- 
+- Présenter Origin R. 
+- J'ai finis le contenu du formulaire en CSS 
+- Continuer le projet de Jérôme
