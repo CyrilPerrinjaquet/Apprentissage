@@ -357,15 +357,16 @@ Réaliser l’annuaire)
 ## Semaine 23
 
 ### Mercredi 
-- Rendu des notes du module 162
+- Rendu des notes du module 162 -> 5
 - Création des cahiers des charges de vos projets
 - Avancement sur le MCD et MLD du projet
-- Rendu des notes des modules 117 et 231
+- Rendu des notes des modules 117 et 231 (4, 5,5) respectivement
 - Liste à puces non-ordonnées
 - Menu de navigation
 - Continuation du projet serveur PS
 - Application pratique No 2
 - Correction exercice 1
+- Rendu des notes 431 -> 4,5
 
 ### Jeudi
 - Chapitre 4, p.32-33 [Anglais]
@@ -380,3 +381,22 @@ Réaliser l’annuaire)
 ## Semaine 24
 
 ### Vacances #Relâches
+
+## Semaine 25
+
+### Mercredi
+- Avancement sur le MCD/MLD
+- Correction du MCD de quelques personnes
+- Liens relatifs et absolus
+- Tables HTML
+- Images HTML
+- Rendu des notes 122 -> 5,5
+- Introduction Python
+- Installatuion environnement Java (JDK, NetBeans)
+
+### Jeudi
+- Chapitre 4, p.34 [Anglais]
+- Exercices sur le résumé Chapitre 7 exercices 4-5 [LACO]
+- [TEST] Le jeune et ses parents
+- [ANNONCE] [TEST] [Maths] Volumes, équations, trigonométrie
+- Trigonométrie correction exercices d) et e) [Maths]
