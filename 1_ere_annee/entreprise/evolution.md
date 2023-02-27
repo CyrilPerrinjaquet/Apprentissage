@@ -482,3 +482,15 @@
 ### Vendredi
 - Repas départ Stéphanie
 - Commencement de l'écriture des specs Pokédex
+
+## Semaine 29
+
+### Lundi 
+- Completion des specs du Pokédex
+- Valider la dernière PR projet Jérôme
+- Clôturé le projet de Jérôme 
+
+### Mardi 
+-
+### Vendredi
+- 
