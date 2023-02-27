@@ -474,4 +474,11 @@
 - Examen de fin de cours inter
 
 ### Mardi 
-- 
+- Revue de l'ensemble du projet de Jérôme
+- Next Steps
+- Pokédex => Ecrire les specs
+- Essai de rendre la table HTML responsive
+
+### Vendredi
+- Repas départ Stéphanie
+- Commencement de l'écriture des specs Pokédex
