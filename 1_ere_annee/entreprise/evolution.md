@@ -482,3 +482,20 @@
 ### Vendredi
 - Repas départ Stéphanie
 - Commencement de l'écriture des specs Pokédex
+
+## Semaine 29
+
+### Lundi 
+- Completion des specs du Pokédex
+- Valider la dernière PR projet Jérôme
+- Clôturé le projet de Jérôme 
+
+### Mardi 
+- Continuation de l'écriture des specs du pokédex
+- Passage en revue des specs par Michel
+- Plus de précision ajoutées au specs
+- Passage de deux personnes qui s'occupent des apprentis, venant de l'EPFL, ils font un tour dans toute la région pour voir comment les apprentis sont formés 
+
+### Vendredi
+- Continuation de l'écriture de plus de specs pour le pokédex
+- Entrainement pour le tournoi de baby foot organisé par C2C
