@@ -400,3 +400,20 @@ Réaliser l’annuaire)
 - [TEST] Le jeune et ses parents
 - [ANNONCE] [TEST] [Maths] Volumes, équations, trigonométrie
 - Trigonométrie correction exercices d) et e) [Maths]
+
+## Semaine 26
+
+### Mercredi
+- Avancement sur le MCD et MLD projet Maccaud
+- Formulaires en HTML
+- Exercices liés aux formulaires HTML
+- Vue des variables et types en python
+- Exercice de calcul / concaténation toujours en python
+- Refait la partie séquençage de l'application pratique n°2 - Exercice 1
+
+### Jeudi
+- [ANNONCE] [TEST] [Anglais] Chapitre 4
+- [ANNONCE] [TEST] [LACO] Le résumé
+- Début du chapitre 3 : Mon argent [SOCI]
+- [TEST] [Maths] Volumes, équations, trigonométrie
+- Introduction au vecteurs [Maths]
