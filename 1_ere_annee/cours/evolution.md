@@ -417,3 +417,20 @@ Réaliser l’annuaire)
 - Début du chapitre 3 : Mon argent [SOCI]
 - [TEST] [Maths] Volumes, équations, trigonométrie
 - Introduction au vecteurs [Maths]
+
+### Semaine 27
+
+### Mercredi
+- Avancement sur le MCD et MLD du projet Maccaud
+- Démonstration du code Python (et Flask) pour interagir avec la DB
+- Audio et vidéo en HTML
+- Exercices liés à l'audio et vidéo HTML
+- Vue des conditions en python (if, elif, else)
+- Correction de la partie code du séquençage de l'application pratique n°2 ex2 et 3
+- Gestion des erreurs avec try et catch en Java
+
+### Jeudi
+- [TEST] [Anglais] Chapitre 4
+- [TEST] [LACO] Le résumé
+- Chapitre 3, p.7 et 8 [SOCI]
+- Addition et soustratcion des vecteurs [Maths]
