@@ -507,4 +507,14 @@
 - Revue en surface les APIs et JSON avec Diane
 - Introduction au SASS/SCSS
 - Commencement du projet de pokédex
-- Header terminé pour 
+- Header terminé 
+
+### Mardi
+- Continuation du projet pokédex
+- Revue des designs et du code 
+- Refactor le code
+
+### Vendredi
+- Continuation du projet pokédex
+- Finition du layout et CSS
+- Finition des objectifs pour mardi
