@@ -522,9 +522,9 @@
 ## Semaine 31
 
 ### Lundi 
-- 
-- 
-- 
+- Continuation de mon projet pokédex
+- Commencement du JS et de la relation avec l'API
+- Toutes les données sont remplies, seulement il faut fixer des choses niveau CSS
 
 ### Mardi
 - 
