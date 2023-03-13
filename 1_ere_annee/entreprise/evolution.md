@@ -499,3 +499,22 @@
 ### Vendredi
 - Continuation de l'écriture de plus de specs pour le pokédex
 - Entrainement pour le tournoi de baby foot organisé par C2C
+- MaQuette du projet fait sur Excalidraw mais cette fois sur Figma
+
+### Semaine 30
+
+### Lundi
+- Revue en surface les APIs et JSON avec Diane
+- Introduction au SASS/SCSS
+- Commencement du projet de pokédex
+- Header terminé 
+
+### Mardi
+- Continuation du projet pokédex
+- Revue des designs et du code 
+- Refactor le code
+
+### Vendredi
+- Continuation du projet pokédex
+- Finition du layout et CSS
+- Finition des objectifs pour mardi
