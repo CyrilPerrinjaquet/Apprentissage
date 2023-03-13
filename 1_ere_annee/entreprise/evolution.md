@@ -518,3 +518,20 @@
 - Continuation du projet pokédex
 - Finition du layout et CSS
 - Finition des objectifs pour mardi
+
+## Semaine 31
+
+### Lundi 
+- 
+- 
+- 
+
+### Mardi
+- 
+- 
+- 
+
+### Vendredi
+- 
+- 
+- 
