@@ -418,7 +418,7 @@ Réaliser l’annuaire)
 - [TEST] [Maths] Volumes, équations, trigonométrie
 - Introduction au vecteurs [Maths]
 
-### Semaine 27
+## Semaine 27
 
 ### Mercredi
 - Avancement sur le MCD et MLD du projet Maccaud
@@ -434,3 +434,18 @@ Réaliser l’annuaire)
 - [TEST] [LACO] Le résumé
 - Chapitre 3, p.7 et 8 [SOCI]
 - Addition et soustratcion des vecteurs [Maths]
+
+## Semaine 28
+
+### Mercredi
+- Avancement sur le mpd du projet Maccaud
+- Introduction au CSS -> Exercices liés au CSS
+- Vu des boucles en python
+- Application pratique n°5 en java -> moyennes de notes et les arrondires
+
+### Jeudi
+Malade 🤒
+- Chapitre 5 p.40, 42 [Anglais]
+- Rendu du test et exercice argumentation, connecteurs logiques [LACO] -> MEM p.226-227
+- Rendu du test [SOCI]
+- Vecteurs et correction ex 10.5 c) [Maths]
