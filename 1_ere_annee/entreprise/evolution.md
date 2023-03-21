@@ -533,3 +533,9 @@
 
 ### Vendredi
 Malade 🤒
+
+## Semaine 32
+
+### Lundi
+- Continuation de mon projet pokédex
+- Tout marche comme il faut seulement un problème d'async/await
