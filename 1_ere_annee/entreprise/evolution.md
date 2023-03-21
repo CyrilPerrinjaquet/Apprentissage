@@ -525,13 +525,11 @@
 - Continuation de mon projet pokédex
 - Commencement du JS et de la relation avec l'API
 - Toutes les données sont remplies, seulement il faut fixer des choses niveau CSS
+- Front-end Café 🍵
 
 ### Mardi
-- 
-- 
-- 
+- Continuation de mon projet pokédex
+- Problèmes CSS liés au données sont corrigées
 
 ### Vendredi
-- 
-- 
-- 
+Malade 🤒
