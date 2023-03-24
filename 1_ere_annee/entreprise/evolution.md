@@ -539,3 +539,16 @@ Malade 🤒
 ### Lundi
 - Continuation de mon projet pokédex
 - Tout marche comme il faut seulement un problème d'async/await
+
+### Mardi
+- Revue des objectifs et du code 
+- Proposition de refaire le projet avec Vue.js
+- Continuation du projet pokédex 
+- Refactor du code pas clean
+
+### Vendredi
+- Gros refactor du code
+- Le code désormais plus propre et plus compréhensible grâce à Jérôme
+- Règler quelques problèmes liés au changements effectués
+- Plus que le problème d'ordre et cette partie sera à peu près terminée
+- Pour l'ordre => Porblème qui vient de nous et pas du serveur ou de la requête
