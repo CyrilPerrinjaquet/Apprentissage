@@ -552,3 +552,20 @@ Malade 🤒
 - Règler quelques problèmes liés au changements effectués
 - Plus que le problème d'ordre et cette partie sera à peu près terminée
 - Pour l'ordre => Porblème qui vient de nous et pas du serveur ou de la requête
+
+
+## Semaine 33
+
+### Lundi
+- Continuation du projet pokédex
+- Enlevé le bouton quand il n'y a plus de next
+- Mettre un loader pour le charger plus
+
+### Mardi
+- Revue des objectifs weekly
+- Commencement de ma présentation pour la réunion avec mes parents
+- Continuation du projet pokédex
+
+### Vendredi
+- Continuation du projet pokédex
+- Refactor le code et dernières modifications
