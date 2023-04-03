@@ -463,3 +463,19 @@ Malade 🤒
 - Chapitre 5 p.44-45 [Anglais]
 - Mon argent : Chapitre 3 p.8-14 [SOCI]
 - [ANNONCE] [TEST] [Maths] : Vecteurs 
+
+## Semaine 30
+
+### Mercredi
+- Importation d'un projet sur GitHub
+- Duplication du projet pour qu'il corresponde à notre projet
+- CSS : Positionnement des éléments, bordures, polices
+- Python : Début du labo 
+- Test formatif de révision No 1
+
+### Jeudi
+[ANNONCE] [TEST] [Anglais] : Chapitre 5 // 6 avril 2023
+- Chapitre 6 p.44-45 [Anglais]
+- Assurances [SOCI]
+- [TEST] [Maths] Vecteurs
+- Calcul matriciel (Chapitre 11) --> Addition & Soustraction [Maths]
