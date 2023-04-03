@@ -449,3 +449,18 @@ Malade 🤒
 - Rendu du test et exercice argumentation, connecteurs logiques [LACO] -> MEM p.226-227
 - Rendu du test [SOCI]
 - Vecteurs et correction ex 10.5 c) [Maths]
+
+## Semaine 29 
+
+### Mercredi
+- Clonage d'un projet GitHub sur PyCharm pour le module 164
+- CSS : Couleurs, principe des boîtes
+- Python : Fonctions et Fichiers
+- Tableaux en Java
+- Application pratique No 6
+
+### Jeudi
+Malade 🤒
+- Chapitre 5 p.44-45 [Anglais]
+- Mon argent : Chapitre 3 p.8-14 [SOCI]
+- [ANNONCE] [TEST] [Maths] : Vecteurs 
