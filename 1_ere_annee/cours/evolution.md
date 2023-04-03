@@ -460,7 +460,6 @@ Malade 🤒
 - Application pratique No 6
 
 ### Jeudi
-Malade 🤒
 - Chapitre 5 p.44-45 [Anglais]
 - Mon argent : Chapitre 3 p.8-14 [SOCI]
 - [ANNONCE] [TEST] [Maths] : Vecteurs 
