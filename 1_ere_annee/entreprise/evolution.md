@@ -569,3 +569,10 @@ Malade 🤒
 ### Vendredi
 - Continuation du projet pokédex
 - Refactor le code et dernières modifications
+
+## Semaine 34
+
+### Lundi
+- Continuation du projet pokédex
+- Commencement du détail des pokémons
+- Essai de remplir avec les données de l'API mais sans succès
