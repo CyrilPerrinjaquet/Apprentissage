@@ -479,3 +479,25 @@ Malade 🤒
 - Assurances [SOCI]
 - [TEST] [Maths] Vecteurs
 - Calcul matriciel (Chapitre 11) --> Addition & Soustraction [Maths]
+
+## Semaine 31
+
+### Mercredi
+- Modification du projet pour afficher une de nos tables, module 164
+- Application pratique No 14 (aka un site web enfin), module 293
+- Continuation du labo dans le module 122
+- Introduction à la programmation orientée objet
+- Interface graphique en Java
+
+### Jeudi
+- [TEST] [Anglais] Chapitre 5
+- Assurances Chapitre 3 p.16-20 [SOCI]
+- Multiplication de matrices [Maths]
+
+## Semaine 32
+
+### Vacances 😊
+
+## Semaine 33
+
+### Vacances 😊
