@@ -569,3 +569,21 @@ Malade 🤒
 ### Vendredi
 - Continuation du projet pokédex
 - Refactor le code et dernières modifications
+
+## Semaine 34 
+
+### Vacances 😊
+
+## Semaine 35
+
+### Lundi
+- Merge la PR fonctionnalité de searcher
+- Continuation du projet pokédex
+- Presque fini la card pour les détails du pokémon
+
+### Mardi
+- Finition de la card du détails 
+- Continuation du projet pokédex
+- Changement du style de card
+- Bouton qui zoom tout en haut ✅, scroll automatique ✅
+- Fixation de quelques petits edge cases
