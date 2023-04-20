@@ -587,3 +587,13 @@ Malade 🤒
 - Changement du style de card
 - Bouton qui zoom tout en haut ✅, scroll automatique ✅
 - Fixation de quelques petits edge cases
+
+### Mercredi 
+- Continuation du projet pokédex
+- Quelques ajutements des styles
+
+### Jeudi
+- Petite de modularisation des fichiers styles
+- Ajouté le loader sur la page de détail
+- Continuation du projet pokédex
+- Statistiques du projet ✅
