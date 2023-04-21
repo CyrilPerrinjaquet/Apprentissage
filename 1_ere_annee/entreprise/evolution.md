@@ -597,3 +597,9 @@ Malade 🤒
 - Ajouté le loader sur la page de détail
 - Continuation du projet pokédex
 - Statistiques du projet ✅
+
+### Vendredi
+- Continuation du projet pokédex
+- Finition des stats et de la responsivité
+- Document pour ma review annuelle ✅
+- Previous/next avec des boutons ✅
