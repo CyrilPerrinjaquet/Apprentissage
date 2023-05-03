@@ -603,3 +603,35 @@ Malade 🤒
 - Finition des stats et de la responsivité
 - Document pour ma review annuelle ✅
 - Previous/next avec des boutons ✅
+
+## Semaine 36
+
+### Lundi 
+- Continuation du projet pokédex
+- Finition des stats
+- Pauffiner les modifs
+- Commencement des évolutions
+- Commencement de React.js
+
+### Mardi
+- Continuation de React
+- Continuation du projet pokédex
+- Revue annuelle 
+
+### Vendredi
+- Continuation du proket pokédex
+- Itératif pour les évolutions
+- Quasi finition des évolutions
+- Continuation de React
+
+## Semaine 37
+
+### Lundi
+- Continuation du projet pokédex
+- Finition des évolutions
+- Continuation de React
+
+### Mardi
+- Continuation de React 
+- Finition du Tic Tac Toe Game en React
+- Finition du projet pokédex (plus que les PR à merge)
