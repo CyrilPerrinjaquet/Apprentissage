@@ -501,3 +501,27 @@ Malade 🤒
 ## Semaine 33
 
 ### Vacances 😊
+
+## Semaine 34
+
+### Mercredi 
+- SELECT projet Maccaud
+- INSERT projet Maccaud
+- Correction application pratique n°14
+- Test Web mini site Enigma 
+- Rendu des notes Labo Python -> 5,5
+- Introduction à Bash
+- Application pratique n°11 Java 319
+
+### Jeudi
+- [ANNONCE] [TEST] [Anglais] Chapitre 6 25 mai 2023
+- Chapitre 6 page 47 [Anglais]
+- Compréhension de texte [LACO]
+- Révisions [SOCI]
+- Rendu du test [Maths]
+
+## Semaine 35
+
+### Mercredi
+- Correction de problèmes concernant le projet Maccaud (+ du support qu'autre chose)
+- Media Query CSS, responsivité de sites
