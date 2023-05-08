@@ -640,3 +640,9 @@ Malade 🤒
 - Commencement des next steps sur le morpion en react
 - Avancement sur les objectifs hebdo (exercice de matrice // Addition)
 - Meeting sur la récursivité
+
+## Semaine 38
+
+### Lundi
+- Continuation des next steps sur le morpion en react
+- Avancement sur les objectifs hebdo (exercice de matrice // Addition)
