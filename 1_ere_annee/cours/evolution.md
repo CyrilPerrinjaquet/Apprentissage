@@ -535,3 +535,10 @@ Malade 🤒
 - [EXAMEN] [LACO] Epreuve de référence
 - [EXAMEN] [SOCI] Epreuve de référence
 - Conversions entre les 3 bases (2, 10 16) [Maths]
+
+## Semaine 36
+
+### Mercredi
+
+
+### Jeudi
