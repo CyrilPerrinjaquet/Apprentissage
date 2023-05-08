@@ -635,3 +635,8 @@ Malade 🤒
 - Continuation de React 
 - Finition du Tic Tac Toe Game en React
 - Finition du projet pokédex (plus que les PR à merge)
+
+### Vendredi
+- Commencement des next steps sur le morpion en react
+- Avancement sur les objectifs hebdo (exercice de matrice // Addition)
+- Meeting sur la récursivité
