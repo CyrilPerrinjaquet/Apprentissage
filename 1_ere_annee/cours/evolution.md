@@ -525,3 +525,13 @@ Malade 🤒
 ### Mercredi
 - Correction de problèmes concernant le projet Maccaud (+ du support qu'autre chose)
 - Media Query CSS, responsivité de sites
+- Vue des variables en Bash
+- Vue des différents composants en Java (layouts, labels, buttons)
+
+### Jeudi
+- [ANNONCE] [TEST] Chapitre 6, 11 mai 2023
+- Rendu des tests [Anglais]
+- Exercices chapitre 6, page 49
+- [EXAMEN] [LACO] Epreuve de référence
+- [EXAMEN] [SOCI] Epreuve de référence
+- Conversions entre les 3 bases (2, 10 16) [Maths]
