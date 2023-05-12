@@ -646,3 +646,15 @@ Malade 🤒
 ### Lundi
 - Continuation des next steps sur le morpion en react
 - Avancement sur les objectifs hebdo (exercice de matrice // Addition)
+
+### Mardi
+- Continuation du morpion en React
+- Continution des objectifs hebdo
+- Revue des objectifs 
+
+### Vendredi
+- Résolution du problème avec Cylance
+- Reviews et Retro
+- Continuation des matrices en Java
+- Poser mon jour de congé pour vendredi pro
+- Finition et clôturation du projet Pokédex
