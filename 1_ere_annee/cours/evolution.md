@@ -539,6 +539,14 @@ Malade 🤒
 ## Semaine 36
 
 ### Mercredi
-
+- Explication des conditions de rendu
+- Avancement du projet
+- Réponse aux questions
+- Maquettes et plans du site
+- Formulaires en Java
 
 ### Jeudi
+- [TEST] [Anglais] Chapitre 6
+- Correspondances : comment bien écrire une lettre [SOCI]
+- Chapitre 9 [SOCI]
+- Correction exercices en devoirs [Maths]
