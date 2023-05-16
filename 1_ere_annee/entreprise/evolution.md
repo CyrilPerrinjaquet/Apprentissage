@@ -658,3 +658,15 @@ Malade 🤒
 - Continuation des matrices en Java
 - Poser mon jour de congé pour vendredi pro
 - Finition et clôturation du projet Pokédex
+
+## Semaine 39
+
+### Lundi
+- Finalement résolu le problème de Cylance
+- Continuation des exercices de matrices en Java
+- Pas de React
+
+### Mardi 
+- CIE, analyse de données
+- Questionnaire et exercices en relations à différents cas
+- Données qualitatives ou quantitatives
