@@ -550,3 +550,16 @@ Malade 🤒
 - Correspondances : comment bien écrire une lettre [SOCI]
 - Chapitre 9 [SOCI]
 - Correction exercices en devoirs [Maths]
+
+## Semaine 37
+
+### Mercredi 
+- Avancement du projet Maccaud
+- Réception du cahier des charges pour le site 293
+- Commencement sur le projet avec le cahier des charges
+- Parcourir des répertoires en Bash fichier/dossier
+- Application pratique n°14 en Java
+
+### Jeudi
+
+#### Congé Ascension
