@@ -670,3 +670,15 @@ Malade 🤒
 - CIE, analyse de données
 - Questionnaire et exercices en relations à différents cas
 - Données qualitatives ou quantitatives
+
+### Vendredi 
+
+#### Congé 🌴
+
+## Semaine 40
+
+### Lundi
+- Revue des objectifs hebdo
+- Finition de l'exercice matrix en Java
+- RDV chez le médecin
+- Avancement au niveau des cours
