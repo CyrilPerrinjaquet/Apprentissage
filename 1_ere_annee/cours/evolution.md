@@ -563,3 +563,20 @@ Malade 🤒
 ### Jeudi
 
 #### Congé Ascension
+
+## Semaine 38
+
+### Mercredi
+- Avancement du projet module 164
+- Réponse aux questions (support)
+- Avancement du projet module 293
+- Pas de bash (congé -> prof absent)
+- Application pratique n°15 module 319
+
+### Jeudi
+- Rendu du test [Anglais]
+- Rendu de l'épreuve de référence [LACO/SOCI]
+- Correspondances p.5, 10 et 11 chapitre 9 [SOCI]
+- Correction additions binaires [Maths]
+- Exercices de révision [Maths]
+- [ANNONCE] [TEST] [Maths] Matrices et bin/héxa/déci
