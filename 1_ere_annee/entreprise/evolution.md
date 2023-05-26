@@ -682,3 +682,13 @@ Malade 🤒
 - Finition de l'exercice matrix en Java
 - RDV chez le médecin
 - Avancement au niveau des cours
+
+### Mardi
+- CIE, analyse de données
+- Revue des questionnaires
+- Commencement d'excel
+
+### Vendredi
+- Avancement sur le projet module front 293
+- Tactique cercle apprentis et stages
+- Finition du Tic Tac Toe en React
