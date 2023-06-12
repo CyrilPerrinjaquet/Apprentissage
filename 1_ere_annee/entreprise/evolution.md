@@ -692,3 +692,33 @@ Malade 🤒
 - Avancement sur le projet module front 293
 - Tactique cercle apprentis et stages
 - Finition du Tic Tac Toe en React
+
+## Semaine 41
+
+### Lundi
+- Pentecôte
+
+### Mardi
+- Revue des objectifs
+- Avancement sur les cours 
+
+### Mercredi
+- Avancement sur les cours le plus possible
+
+### Jeudi
+- Avancement sur les cours
+
+### Vendredi
+- Revue d'un exercice en Java
+
+## Semaine 42
+
+### Lundi
+- Pentecôte
+
+### Mardi
+- CIE, analyse de données
+- Avancement sur les exercices excel
+
+### Vendredi 
+- Avancement sur les cours de maccaud
