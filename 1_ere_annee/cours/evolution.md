@@ -580,3 +580,22 @@ Malade 🤒
 - Correction additions binaires [Maths]
 - Exercices de révision [Maths]
 - [ANNONCE] [TEST] [Maths] Matrices et bin/héxa/déci
+
+## Semaine 39
+
+### Mercredi
+- Pas de cours à cause des 4èmes années qui passent leurs examens
+
+### Jeudi
+- Pas de cours à cause des 4èmes années qui passent leurs examens
+
+## Semaine 40
+
+### Mercredi
+- Examens (Bash, Java)
+- Continuation du projet Front
+- Continuation du projet de Maccaud
+
+### Jeudi
+- Jeux et films
+- [TEST] [Maths] Matrices et bin/héxa/déci
