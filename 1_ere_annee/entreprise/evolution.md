@@ -722,3 +722,17 @@ Malade 🤒
 
 ### Vendredi 
 - Avancement sur les cours de maccaud
+
+## Semaine 42
+
+### Lundi
+- Commencement de la todo-list en React
+- Départ de Michel
+
+### Mardi 
+- CIE analyse de données,
+- Continuation des exercices de la semaine passée
+- Nouveaux exercices plus en lien avec les graphiques
+
+### Mercredi
+- Continuation de la todo-list en React
