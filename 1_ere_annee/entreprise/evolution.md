@@ -736,3 +736,12 @@ Malade 🤒
 
 ### Mercredi
 - Continuation de la todo-list en React
+
+### Jeudi
+- Continuation de la todo-list en React
+- Tests unitaire
+
+### Vendredi
+- Continuation de la todo-list en React
+- Tests unitaire
+- Finition du projet
