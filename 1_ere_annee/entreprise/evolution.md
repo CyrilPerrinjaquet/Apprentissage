@@ -745,3 +745,32 @@ Malade 🤒
 - Continuation de la todo-list en React
 - Tests unitaire
 - Finition du projet
+
+## Semaine 43
+
+### Lundi
+- Continuation de react
+- Commencement de setup RoR
+- Concert à Zürich de Iron Maiden
+
+### Mardi
+- CIE
+- Examen analyse de donnée (Excel, Word, PowerPoint)
+
+### Mercredi
+- Continuation de React 
+- Continuation de setup RoR
+
+### Jeudi
+- Continuation de setup RoR, quelques problèmes
+- Continuation un petit peu de React
+- Qeynote 🥳🎉
+
+### Vendredi 
+- Continuation de setup RoR, impossible de résoudre le problème
+
+## Semaine 44
+
+### Lundi 
+- Continuation de setup RoR, toujours impossible de résoudre le problème,
+malgré avoir tout essayé 
