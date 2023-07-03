@@ -774,3 +774,19 @@ Malade 🤒
 ### Lundi 
 - Continuation de setup RoR, toujours impossible de résoudre le problème,
 malgré avoir tout essayé 
+- Reviews et rétro
+
+### Mardi
+- Continuation de setup RoR, toujours pas trouvé le problème
+- Risques Cybersécu
+
+### Mercredi
+- Finalement réussi à faire marcher RoR, tout fonctionne
+- Commencement du projet Allergy
+
+### Jeudi
+- Continuation du projet Allergy
+- RoR marche sans aucune erreur
+
+### Vendredi
+- Continuation du projet Allergy
