@@ -790,3 +790,13 @@ malgré avoir tout essayé
 
 ### Vendredi
 - Continuation du projet Allergy
+
+## Semaine 45
+
+### Lundi
+- Continuation du projet Allergy
+- Commencement des opérations sur la table user
+
+### Mardi
+- Continuation du projet Allergy
+- Avancement sur les opérations sur la table user
