@@ -800,3 +800,9 @@ malgré avoir tout essayé
 ### Mardi
 - Continuation du projet Allergy
 - Avancement sur les opérations sur la table user
+- Revue des objectifs
+- Reçu le bulletin 🥳🎉
+
+### Mercredi
+- Continuation du projet Allergy
+- Avancement des opérations sur la table user
