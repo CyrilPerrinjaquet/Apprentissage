@@ -806,3 +806,11 @@ malgré avoir tout essayé
 ### Mercredi
 - Continuation du projet Allergy
 - Avancement des opérations sur la table user
+
+### Jeudi
+- Continuation du projet Allergy
+- Avancement sur la table user, users_allergy et des PRs en cours
+
+### Vendredi
+- Continuation du projet Allergy
+- Finition du show pour la table users_allergy
