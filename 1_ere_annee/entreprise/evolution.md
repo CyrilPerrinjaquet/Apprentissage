@@ -825,4 +825,4 @@ malgré avoir tout essayé
 ### Mardi
 - Continuation du projet Allergy
 - Merge les PRs qu'il me restait
-- Revue des objectifs
+- Fait le Delete pour la table users_allergy
