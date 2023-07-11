@@ -814,3 +814,15 @@ malgré avoir tout essayé
 ### Vendredi
 - Continuation du projet Allergy
 - Finition du show pour la table users_allergy
+
+## Semaine 46
+
+### Lundi
+- Continuation du projet Allergy
+- Show de la table users_allergy ✅
+- Corrigé les différentes erreurs
+
+### Mardi
+- Continuation du projet Allergy
+- Merge les PRs qu'il me restait
+- Revue des objectifs
