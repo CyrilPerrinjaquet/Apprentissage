@@ -826,3 +826,26 @@ malgré avoir tout essayé
 - Continuation du projet Allergy
 - Merge les PRs qu'il me restait
 - Fait le Delete pour la table users_allergy
+
+### Mercredi
+- Continuation du projet Allergy
+- Merge les PR's
+- Review hebdo
+- Add pour la table users_allergy ✅
+
+### Jeudi
+- Continuation du projet Allergy
+- Fait une PR pour remplacer les if POST par un else
+
+### Vendredi
+- Finition et clôturation du projet Allergy
+
+## Semaine 47
+### Vacances 😊
+
+## Semaine 48 
+### Vacances 😊
+
+## Semaine 49
+
+### Vacances 😊
