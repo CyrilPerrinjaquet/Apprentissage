@@ -33,7 +33,9 @@
 - Continuation du tuto RoR
 
 ### Mardi
-- 
+- Clarification de tickets
+- Clarification du code tuto ruby/rails
+- Avancement sur le tuto RoR
 
 ### Mecredi
 
