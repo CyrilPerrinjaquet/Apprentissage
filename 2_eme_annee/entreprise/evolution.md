@@ -49,3 +49,9 @@
 ### Vendredi
 - Avancement du ticket Front
 - Merge du ticket Back 
+
+## Semaine 3
+
+### Lundi
+- Continuation du ticket front et quasi finition
+- Continuation du tuto Ruby on Rails
