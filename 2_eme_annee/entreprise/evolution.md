@@ -38,7 +38,14 @@
 - Avancement sur le tuto RoR
 
 ### Mecredi
+- Commencement du ticket Back
+- Quasi-finition du ticket Back
 
 ### Jeudi
+- Refactor de mon ticket Back
+- Commencement du ticket Front
+- Avancement dans le tuto Ruby/Rails
 
 ### Vendredi
+- Avancement du ticket Front
+- Merge du ticket Back 
