@@ -55,3 +55,13 @@
 ### Lundi
 - Continuation du ticket front et quasi finition
 - Continuation du tuto Ruby on Rails
+
+### Mercredi
+- Opération Barberose 🏴‍☠️
+- Avancement sur la PR front
+- Check cours + revue des objectifs
+
+### Vendredi
+- Revue de la PR front
+- Avancement sur le tuto ruby/rails
+- Commencement de la formation Epic React
