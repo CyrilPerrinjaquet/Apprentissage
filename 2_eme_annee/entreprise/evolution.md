@@ -65,3 +65,8 @@
 - Revue de la PR front
 - Avancement sur le tuto ruby/rails
 - Commencement de la formation Epic React
+
+## Semaine 4
+
+### Lundi
+- Finition de react-fundamentals dans la formation Epic React
