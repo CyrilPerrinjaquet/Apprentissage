@@ -70,3 +70,19 @@
 
 ### Lundi
 - Finition de react-fundamentals dans la formation Epic React
+
+### Jeudi
+- Conférence Front-end Zurich
+
+### Vendredi
+- Conférence Front-end Zurich
+
+## Semaine 5
+
+### Lundi
+- Continuation d'Epic React
+
+### Mercredi
+- Continuation d'Epic React
+- Continuation du tuto Ruby/Rails
+- Compte rendu de la conf Zurich
