@@ -86,3 +86,23 @@
 - Continuation d'Epic React
 - Continuation du tuto Ruby/Rails
 - Compte rendu de la conf Zurich
+
+### Vendredi
+- CIE (Cours inter-entreprise)
+- Exercices sur React (Login GRI)
+
+## Semaine 6
+
+### Lundi
+- CIE (Cours inter-entreprise)
+- Continuation des exercices sur React (Login GRI)
+
+### Mercredi
+- Continuation d'Epic React
+- Continuation de la première PR du ticket BACK
+- Examen de la route 🚦
+
+### Vendredi
+- CIE (Cours inter-entreprise)
+- Continuation des exercices sur React (Login GRI)
+- Examen CIE sur React
