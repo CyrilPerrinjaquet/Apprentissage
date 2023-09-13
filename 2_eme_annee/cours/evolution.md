@@ -52,3 +52,11 @@
 - UML
 - Présentation du Labo 1 [DATE DE RENDU : 17.09.2023]
 - Docker, Docker Hub, Docker Engine
+
+## Semaine 4
+
+### Mardi
+- [TEST] Surprise sur la situation de la Suisse avant 1848 et après [ECG] 
+- Nationalisme, Etats et Nations [ECG]
+- Soustraction, multiplication, division binaire [Maths]
+- Table ASCII/ASCII étendu, Unicode, UTF-8
