@@ -106,3 +106,14 @@
 - CIE (Cours inter-entreprise)
 - Continuation des exercices sur React (Login GRI)
 - Examen CIE sur React
+
+## Semaine 7
+
+### Lundi
+- Lundi du Jeûne
+
+### Mercredi
+- Avancement sur le ticket RoR
+
+### Vendredi
+- Avancement sur le ticket RoR
