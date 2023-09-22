@@ -60,3 +60,35 @@
 - Nationalisme, Etats et Nations [ECG]
 - Soustraction, multiplication, division binaire [Maths]
 - Table ASCII/ASCII étendu, Unicode, UTF-8
+
+### Jeudi
+- Livre 1, Chapitre 5, pages 41-43 [Anglais]
+- Exercice pratique Scrum (Découverte de TomCat)
+- Récapitulaitf des différents clouds (public, hybride, privé)
+- Connexion au cloud Infomaniak de l'EPSIC
+- Questions pour un champion sur UML etc...
+- Continuation du labo 1 (UML)
+- Installation de Docker Desktop
+- Commandes de bases sur Docker
+
+## Semaine 5
+
+### Mardi
+- Rendu et correction du test [ECG]
+- Fédéralisme Suisse [ECG]
+- La Suisse et l'Union Européene [ECG]
+- [ANNONCE] [TEST] [Maths] Chapitre 1-3 du livre de maths, le 26 septembre 2023
+- Révisions binaire [Maths]
+- Code EAN [114]
+
+### Jeudi
+- [TEST] [Anglais] Unité 5
+- Livre 1, Chapitre 6, page 44-46
+- Connexion a kanbanflow.com [SCRUM]
+- Réalisation de 10 stories pour l'installion de TomCat [SCRUM]
+- Création d'une instance [Cloud]
+- Accès à l'instance via SSH [Cloud]
+- Correction du labo 1 [POO]
+- Installation de l'environnement de développement C# [POO]
+- Dockerfile [Docker]
+- Volumes [Docker]
