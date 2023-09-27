@@ -124,3 +124,7 @@
 - Avancement sur le ticket RoR
 - Avancmenet sur le tuto Ruby On Rails
 - Avancement sur Epic React
+
+### Mercredi
+- Gros avancement sur le ticket RoR
+- Avancemement sur le tuto Rails
