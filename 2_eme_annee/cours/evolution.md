@@ -92,3 +92,22 @@
 - Installation de l'environnement de développement C# [POO]
 - Dockerfile [Docker]
 - Volumes [Docker]
+
+## Semaine 6
+
+### Mardi
+- [ANNONCE] [TEST] [ECG] La démocration helvétique le 3 octobre 2023 (En gros tout ce qu'on a vu jusqu'à présent)
+- La hiérarchie libérale (communes < cantons < conf) [ECG]
+- Assemblée fédérale [ECG]
+- [TEST] [Maths] Chapitre 1-3 du livre de maths (Conversions, opérations binaires)
+- Révision de la partie 1 du 114
+
+### Jeudi
+- Unté 6 page 46-48 [Anglais]
+- Avancement sur la création des 10 stories [SCRUM]
+- Connextion à l'instance via SSH [Cloud]
+- Exercice 2 - Calculatrice + Correction [POO]
+- Types primitifs et complexes [POO]
+- Conventions de codage en C# [POO]
+- Présentation du labo 2 [POO]
+- Debuggage du Dockerfile (Cela ne marchais pas)
