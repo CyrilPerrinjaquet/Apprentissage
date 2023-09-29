@@ -128,3 +128,6 @@
 ### Mercredi
 - Gros avancement sur le ticket RoR
 - Avancemement sur le tuto Rails
+
+### Vendredi
+- Avancement sur le ticket RoR
