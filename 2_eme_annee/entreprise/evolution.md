@@ -136,3 +136,7 @@
 
 ### Lundi
 - Avancement sur le ticket RoR
+
+### Mercredi
+- Avancement sur le tuto Ruby On Rails
+- Avancement sur Epic React
