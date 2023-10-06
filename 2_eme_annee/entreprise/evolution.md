@@ -140,3 +140,8 @@
 ### Mercredi
 - Avancement sur le tuto Ruby On Rails
 - Avancement sur Epic React
+
+### Vendredi
+- Correction des tests sur le ticket RoR
+- Avancement du tuto Rails
+- Finition du Labo2 en C#
