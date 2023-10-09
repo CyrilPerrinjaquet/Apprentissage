@@ -145,3 +145,9 @@
 - Correction des tests sur le ticket RoR
 - Avancement du tuto Rails
 - Finition du Labo2 en C#
+
+## Semaine 10
+
+### Lundi
+- Avancement sur le ticket RoR
+- Avancement sur le tuto Rails
