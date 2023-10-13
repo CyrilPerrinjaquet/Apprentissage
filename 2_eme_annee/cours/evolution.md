@@ -111,3 +111,20 @@
 - Conventions de codage en C# [POO]
 - Présentation du labo 2 [POO]
 - Debuggage du Dockerfile (Cela ne marchais pas)
+
+## Semaine 5
+
+### Mardi
+- [TEST] [ECG] La démocration helvétique le 3 octobre 2023 (En gros tout ce qu'on a vu jusqu'à présent) 
+- Élection du délégué 
+- Reprise du reportage
+- Portes logiques OR [Maths]
+- Nombre entiers relatifs, nombre réels à virgule fixe [114] 
+
+### Jeudi
+- Chapitre 6. page 48-49 [Anglais]
+- Création d'un kahoot en groupe [Anglais]
+- 2ème sprint (Goal : Faire fonctionner une VM avec l'OS configuré pour l'utilisation)
+- Description de l'authentification en SSH [346] [Cloud]
+- Continuation du labo2 [320]
+- Continuation de l'exercice 3 qui est noté
