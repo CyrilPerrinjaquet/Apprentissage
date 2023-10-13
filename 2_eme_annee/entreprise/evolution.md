@@ -151,3 +151,11 @@
 ### Lundi
 - Avancement sur le ticket RoR
 - Avancement sur le tuto Rails
+
+### Mercredi
+- Avancement sur le ticket RoR
+- Avancement sur le tuto Rails
+
+### Vendredi
+- Avancement/Finition du ticket RoR
+- Finition du tuto Rails
