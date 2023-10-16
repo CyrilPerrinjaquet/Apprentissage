@@ -128,3 +128,11 @@
 - Description de l'authentification en SSH [346] [Cloud]
 - Continuation du labo2 [320]
 - Continuation de l'exercice 3 qui est noté
+
+## Semaine 6
+
+### Vacances 😊
+
+## Semaine 7
+
+### Vacances 😊
