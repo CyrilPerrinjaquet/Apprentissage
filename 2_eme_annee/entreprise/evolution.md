@@ -159,3 +159,17 @@
 ### Vendredi
 - Avancement/Finition du ticket RoR
 - Finition du tuto Rails
+
+## Semaine 11
+
+### Lundi
+- Avancement sur la présentation pour les mocks
+- Commencement de la mini-présentation de moi pour les stagiaires
+
+### Mardi
+
+### Mercredi
+
+### Jeudi
+
+### Vendredi
