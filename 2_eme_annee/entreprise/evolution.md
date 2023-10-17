@@ -167,6 +167,8 @@
 - Commencement de la mini-présentation de moi pour les stagiaires
 
 ### Mardi
+- Aidé Eric pour la présenation aux stagiaires
+- Continué Epic React
 
 ### Mercredi
 
