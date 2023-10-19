@@ -171,7 +171,11 @@
 - Continué Epic React
 
 ### Mercredi
+- Continué la présentation des mocks
+- Continué Epic React et fin la partie Tic-Tac-Toe
 
 ### Jeudi
+- Continué le ticket RoR
+- Avancement sur la présentation des mocks
 
 ### Vendredi
