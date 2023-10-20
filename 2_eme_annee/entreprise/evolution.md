@@ -179,3 +179,4 @@
 - Avancement sur la présentation des mocks
 
 ### Vendredi
+- Update des tests de CI qui "failait" sur le ticket RoR
