@@ -180,3 +180,14 @@
 
 ### Vendredi
 - Update des tests de CI qui "failait" sur le ticket RoR
+
+## Semaine 11
+
+--- Arret Accident ---
+
+## Semaine 12
+
+### Lundi
+- Avancemement sur Epic React
+- Avancement sur la présentation des mocks
+- Avancement sur l'exercice 3 noté en 347
