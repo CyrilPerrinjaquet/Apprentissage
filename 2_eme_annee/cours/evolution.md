@@ -136,3 +136,14 @@
 ## Semaine 7
 
 ### Vacances 😊
+
+## Semaine 8
+
+### Mardi 
+- Rendu du test [ECG]
+- Film "Dans ses yeux" [ECG]
+- Portes logiques (Exercice 1 (5.8)) [Maths]
+- Début de la 3ème partie : le traitement des images [114]
+
+### Jeudi
+
