@@ -191,3 +191,8 @@
 - Avancemement sur Epic React
 - Avancement sur la présentation des mocks
 - Avancement sur l'exercice 3 noté en 347
+
+### Mercredi
+- Avancement sur le ticket RoR
+- Avancement sur la présentation des mocks
+- Meeting Snow Republic
