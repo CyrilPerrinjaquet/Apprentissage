@@ -146,4 +146,10 @@
 - Début de la 3ème partie : le traitement des images [114]
 
 ### Jeudi
-
+- [ANNONCE] [TEST] [Anglais] Unit 6, le 16.11.23
+- Chapitre 6 p.50-51 [Anglais]
+- 3ème sprint (Goal : Télécharger et installer les logiciels) [Anglais]
+- Groupes de sécurité [Cloud]
+- Correction du labo 2 [POO]
+- Polymorphisme et héritage [POO]
+- Environnements de développement, test, production [Docker]
