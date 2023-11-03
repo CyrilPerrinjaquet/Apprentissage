@@ -196,3 +196,7 @@
 - Avancement sur le ticket RoR
 - Avancement sur la présentation des mocks
 - Meeting Snow Republic
+
+### Vendredi
+- Finition du ticket RoR
+- Finition d'Epic React
