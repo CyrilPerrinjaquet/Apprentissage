@@ -200,3 +200,14 @@
 ### Vendredi
 - Finition du ticket RoR
 - Finition d'Epic React
+
+## Semaine 13
+
+### Lundi
+- Finition du ticket RoR
+- Avancement sur mon site tothefuture.dev
+
+### Mercredi
+- Avancement sur mon site tothefuture.dev
+
+### Vendredi
