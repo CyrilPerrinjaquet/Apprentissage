@@ -153,3 +153,12 @@
 - Correction du labo 2 [POO]
 - Polymorphisme et héritage [POO]
 - Environnements de développement, test, production [Docker]
+
+## Semaine 9
+
+### Mardi
+- [ANNONCE] [TEST] [ECG] Sur le film, le 14.11.2023
+- Fini de regarder le film "Dans ses yeux" [ECG]
+- Exercices 3 et 5 (5.8) de la brochure [Maths]
+- Dessins bitmap et changement d'échelle [114]
+- Format de l'image et dimensions de l'écran [114]
