@@ -211,3 +211,5 @@
 - Avancement sur mon site tothefuture.dev
 
 ### Vendredi
+- Avancement + finition de la présentation des mocks
+- Petit avancement sur mon site tothefuture.dev
