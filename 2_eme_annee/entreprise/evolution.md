@@ -213,3 +213,9 @@
 ### Vendredi
 - Avancement + finition de la présentation des mocks
 - Petit avancement sur mon site tothefuture.dev
+
+## Semaine 14
+
+### Lundi
+- Finition de mon site web tothefuture.dev
+- Avancement sur le ticket Snow Republic
