@@ -168,3 +168,11 @@
 - Exercice flask en se connectant à l'instance via ssh [Cloud]
 - Question pour un champion, interfaces, héritage [POO]
 - Création de l'environnement de dev avec nodemon [Docker]
+
+## Semaine 10
+
+### Mardi
+- [TEST] [ECG] Film "Dans ses yeux"
+- idéologies (socialisme, nationalisme, libéralisme) [ECG]
+- Exercice 6, portes logiques [Maths]
+- Définition + résolution [114]
