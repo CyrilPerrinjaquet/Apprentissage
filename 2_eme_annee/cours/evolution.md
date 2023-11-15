@@ -162,3 +162,9 @@
 - Exercices 3 et 5 (5.8) de la brochure [Maths]
 - Dessins bitmap et changement d'échelle [114]
 - Format de l'image et dimensions de l'écran [114]
+
+### Jeudi
+- Pas là [Anglais]
+- Exercice flask en se connectant à l'instance via ssh [Cloud]
+- Question pour un champion, interfaces, héritage [POO]
+- Création de l'environnement de dev avec nodemon [Docker]
