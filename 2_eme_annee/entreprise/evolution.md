@@ -219,3 +219,6 @@
 ### Lundi
 - Finition de mon site web tothefuture.dev
 - Avancement sur le ticket Snow Republic
+
+### Mercredi
+- Avancement sur le ticket Snow Republic/finition de la première sous-tâche
