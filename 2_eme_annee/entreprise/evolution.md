@@ -222,3 +222,6 @@
 
 ### Mercredi
 - Avancement sur le ticket Snow Republic/finition de la première sous-tâche
+
+### Vendredi
+- Avancement sur le ticket Snow Republic
