@@ -176,3 +176,10 @@
 - idéologies (socialisme, nationalisme, libéralisme) [ECG]
 - Exercice 6, portes logiques [Maths]
 - Définition + résolution [114]
+
+### Jeudi
+- [TEST] [Anglais] Unité 6
+- Pas de cours SCRUM
+- Labo Flask + labo virtuel [Cloud]
+- Corrigé l'exercice 3 (héritage), classes abstraites, commencement de l'exercice 4 [POO]
+- Applications multi-conteneurs, applications multi-services [Docker]
