@@ -225,3 +225,10 @@
 
 ### Vendredi
 - Avancement sur le ticket Snow Republic
+
+## Semaine 14
+
+### Lundi
+- Avancement sur le ticket Snow Republic
+- Rajout d'une commande sur tothefuture.dev
+- Finition du ticket sunrise dashboard price increase
