@@ -232,3 +232,8 @@
 - Avancement sur le ticket Snow Republic
 - Rajout d'une commande sur tothefuture.dev
 - Finition du ticket sunrise dashboard price increase
+
+### Mercredi
+- Avancement sur le ticket Sunrise price increase
+- Avancement sur le ticket Snow-Republic
+- Revision pour le test de docker
