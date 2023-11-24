@@ -237,3 +237,7 @@
 - Avancement sur le ticket Sunrise price increase
 - Avancement sur le ticket Snow-Republic
 - Revision pour le test de docker
+
+### Vendredi
+- Avancement sur le ticket Snow-republic
+- 31 KM à vélo pour le solidariday
