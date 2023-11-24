@@ -183,3 +183,20 @@
 - Labo Flask + labo virtuel [Cloud]
 - Corrigé l'exercice 3 (héritage), classes abstraites, commencement de l'exercice 4 [POO]
 - Applications multi-conteneurs, applications multi-services [Docker]
+
+## Semaine 11
+
+### Mardi
+- idéologies [ECG]
+- Exercices sur les portes logiques [Maths]
+- Rappel du format, résolution, définition [114]
+- Relation entre la taille et la résolution [114]
+- Tailles des images en noir et blanc, et en nuances de gris [114]
+
+### Jeudi
+- Chapitre 7, pages 53 à 54
+- [ANNONCE] [TEST] [Scrum] Feuille de triche recto autorisée, 30 min, full théorie le 21.12.2023
+- Rappel des phases Scrum [Scrum]
+- Labo virtuel [Cloud]
+- Encapsulation, labo 3 [POO]
+- [TEST] Docker théorie
