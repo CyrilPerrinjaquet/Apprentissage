@@ -241,3 +241,12 @@
 ### Vendredi
 - Avancement sur le ticket Snow-republic
 - 31 KM à vélo pour le solidariday
+
+## Semaine 15
+
+### Lundi
+- Avancement sur Snow-Republic
+- Réviser un test de maths
+
+### Mercredi
+- Finition de Snow-Republic
