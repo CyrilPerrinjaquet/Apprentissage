@@ -250,3 +250,8 @@
 
 ### Mercredi
 - Finition de Snow-Republic
+
+### Vendredi
+- Avancement sur Magma
+- Finition de Snow-republic
+- Fête de la boîte
