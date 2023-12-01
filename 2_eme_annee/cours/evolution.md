@@ -200,3 +200,19 @@
 - Labo virtuel [Cloud]
 - Encapsulation, labo 3 [POO]
 - [TEST] Docker théorie
+
+## Semaine 12
+
+### Mardi
+- Visionnage du documentairr "La fabrication de l'ignorance" [ECG]
+- Débats en classe [ECG]
+- [TEST] [Maths] Portes logiques
+- Colorimétrie, mélanges additifs/soustractions, chrominance/luminance, formats des images JPEG [ECG]
+
+### Jeudi
+- Rendu du test [Anglais]
+- Explication des phases 3 et 4 [Scrum]
+- Continuation/quasi finition du labo virtuel [Cloud]
+- Corrigé de l'exercice 4 [POO]
+- Continuation du labo 3 [POO]
+- Présentation du projet multi-conteneurs 
