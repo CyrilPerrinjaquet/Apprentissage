@@ -216,3 +216,10 @@
 - Corrigé de l'exercice 4 [POO]
 - Continuation du labo 3 [POO]
 - Présentation du projet multi-conteneurs 
+
+## Semaine 13
+
+### Mardi
+- Idéologie nazie [ECG]
+- Algèblre de Boole et Théorème De Morgan [Maths]
+- Compression sans perte de Huffmann
