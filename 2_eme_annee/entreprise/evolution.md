@@ -260,3 +260,6 @@
 
 ### Lundi
 - Avancement sur Magma
+
+### Mercredi
+- Avancement sur Magma
