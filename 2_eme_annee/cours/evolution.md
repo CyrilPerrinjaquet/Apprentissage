@@ -223,3 +223,12 @@
 - Idéologie nazie [ECG]
 - Algèblre de Boole et Théorème De Morgan [Maths]
 - Compression sans perte de Huffmann
+
+### Jeudi
+- Chapitre 7, pages 55-56 [Anglais]
+- Labo Virtuel [Cloud]
+- Correction du labo 3 [POO]
+- Tests unitaires [POO]
+- Exercice 5 [POO]
+- Rendu des tests [Docker]
+- Continué le projet [Docker]
