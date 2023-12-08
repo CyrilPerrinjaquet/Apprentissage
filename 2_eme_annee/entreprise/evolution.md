@@ -263,3 +263,7 @@
 
 ### Mercredi
 - Avancement sur Magma
+
+### Vendredi
+- Avancement sur Magma
+- Avancement sur mes Cours
