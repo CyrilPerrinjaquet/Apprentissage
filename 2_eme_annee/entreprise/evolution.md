@@ -267,3 +267,9 @@
 ### Vendredi
 - Avancement sur Magma
 - Avancement sur mes Cours
+
+## Semaine 16
+
+### Lundi
+- Avancement sur Magma
+- Avancement sur mes cours
