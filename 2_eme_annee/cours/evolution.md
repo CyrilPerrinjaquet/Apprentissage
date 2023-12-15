@@ -232,3 +232,17 @@
 - Exercice 5 [POO]
 - Rendu des tests [Docker]
 - Continué le projet [Docker]
+
+## Semaine 14
+
+### Mardi
+- Fin du documentaire "La fabrique de l'ignorance" [ECG]
+- Tableau de Karnaugh [Maths]
+- Exercice sur Karnaugh [Maths]
+- Partie 4 - Cryptage [114]
+
+### Jeudi
+- Chapitre 7 page 56-59 [Anglais]
+- Jeu de société Scrummable [Scrum]
+- Révisions + correction de l'exercice unit tests [POO]
+- Continuation du projet docker [Docker]
