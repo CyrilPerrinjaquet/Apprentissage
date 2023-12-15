@@ -273,3 +273,9 @@
 ### Lundi
 - Avancement sur Magma
 - Avancement sur mes cours
+
+## Mecredi
+- Avancement sur Magma et mes cours
+
+### Vendredi
+- Avancement sur mes cours
