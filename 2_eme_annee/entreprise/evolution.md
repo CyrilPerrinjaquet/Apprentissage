@@ -279,3 +279,13 @@
 
 ### Vendredi
 - Avancement sur mes cours
+
+## Semaine 17
+
+### Lundi
+- Avancement sur mes cours + docker
+
+### Mercredi
+- Avancement sur mes cours + révision
+
+### Vendredi

@@ -246,3 +246,11 @@
 - Jeu de société Scrummable [Scrum]
 - Révisions + correction de l'exercice unit tests [POO]
 - Continuation du projet docker [Docker]
+
+## Semaine 15
+
+### Mardi
+- Cours de sensibilisation à la ceinture de sécurité (Voiture-tonneau) [ECG]
+- Film "Prisoners" [ECG]
+- Tableau de Karnaugh + Exercices [Maths]
+- Révisions [114]
