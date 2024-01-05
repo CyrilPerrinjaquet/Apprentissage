@@ -289,3 +289,14 @@
 - Avancement sur mes cours + révision
 
 ### Vendredi
+- Avancement sur Magma
+- Avancement sur les derniers rendus
+
+## Semaine 18
+
+### Vacances 😊
+
+## Semaine 19
+
+### Vendredi
+- Avancement sur Magma
