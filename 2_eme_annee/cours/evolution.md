@@ -254,3 +254,18 @@
 - Film "Prisoners" [ECG]
 - Tableau de Karnaugh + Exercices [Maths]
 - Révisions [114]
+
+### Jeudi
+- [TEST] [Anglais] Unit 7
+- [EXAMEN] [SCRUM] Théorie
+- Revue des rendus du labo virtuel [POO]
+- [EXAMEN] [POO] Théorie
+- Avancement sur le projet docker [Docker]
+
+## Semaine 16
+
+### Vacances 😊
+
+## Semaine 17
+
+### Vacances 😊
