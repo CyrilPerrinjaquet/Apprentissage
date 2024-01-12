@@ -300,3 +300,16 @@
 
 ### Vendredi
 - Avancement sur Magma
+
+## Semaine 20
+
+### Lundi
+- Avancement sur Magma
+- Révisions examen 114 et test maths
+
+### Mercredi
+- Avancement sur Magma
+
+### Vendredi
+- Avancement sur Magma
+- Création d'un questionnaire en cli
