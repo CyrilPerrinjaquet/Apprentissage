@@ -269,3 +269,18 @@
 ## Semaine 17
 
 ### Vacances 😊
+
+## Semaine 18 
+
+### Mardi
+- Analyse de texte sur un lanceur d'alerte + exercices
+- [TEST] [Maths] Tableau de Karnaugh
+- [EXAMEN] [114] 
+
+### Jeudi
+- Rendu des tests, Chapitre 8 page 60-61 [Anglais]
+- Rendu de l'examen + correction [Scrum]
+- Commencement du labo scalabilité [Cloud]
+- Feedback sur le module et examen [320]
+- Commencement du labo 1, introduction au module [322]
+- Présentation du projet docker [docker]
