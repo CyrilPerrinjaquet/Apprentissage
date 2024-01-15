@@ -313,3 +313,9 @@
 ### Vendredi
 - Avancement sur Magma
 - Création d'un questionnaire en cli
+
+## Semaine 20
+
+### Lundi
+- Avancement sur Magma
+- Début d'un projet méga fun de mon côté
