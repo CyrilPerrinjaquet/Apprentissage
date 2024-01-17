@@ -319,3 +319,7 @@
 ### Lundi
 - Avancement sur Magma
 - Début d'un projet méga fun de mon côté
+
+### Mardi
+- Méga avancement sur magma
+- Continuation du projet fun

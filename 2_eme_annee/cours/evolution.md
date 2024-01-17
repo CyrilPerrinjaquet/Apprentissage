@@ -284,3 +284,10 @@
 - Feedback sur le module et examen [320]
 - Commencement du labo 1, introduction au module [322]
 - Présentation du projet docker [docker]
+
+## Semaine 19
+
+### Mardi
+
+
+### Jeudi
