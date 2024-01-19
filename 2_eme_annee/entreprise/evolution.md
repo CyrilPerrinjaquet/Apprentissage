@@ -320,6 +320,10 @@
 - Avancement sur Magma
 - Début d'un projet méga fun de mon côté
 
-### Mardi
+### Mercredi
 - Méga avancement sur magma
+- Continuation du projet fun
+
+### Vendredi
+- Avancement sur Magma
 - Continuation du projet fun

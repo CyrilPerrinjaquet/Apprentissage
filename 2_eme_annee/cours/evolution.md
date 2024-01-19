@@ -288,6 +288,17 @@
 ## Semaine 19
 
 ### Mardi
-
+- Fin du film "Prisoners"
+- Début du film "Snowden" (5 premières minutes)
+- Rendu des tests + correction [Maths]
+- Exercices sur Karnaugh
+- Introduction au module, formation des groupes, établissement de la charte [254]
 
 ### Jeudi
+- may/might/could (not) + exercices [Anglais]
+- Chapitre 8, page 61 [Anglais]
+- Gestion du projet du module 322 [Scrum]
+- Labo Scalabilité [Cloud]
+- Techniques d'analyse des besoins (Persona, empathy map, user journey map, VPC) [322] 
+- Continuation du labo 1 [322] 
+- Hors-sujet : Présentation sur l'amélioration de ses performances.
