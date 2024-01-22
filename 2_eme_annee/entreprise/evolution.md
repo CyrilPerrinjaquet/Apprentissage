@@ -327,3 +327,9 @@
 ### Vendredi
 - Avancement sur Magma
 - Continuation du projet fun
+
+## Semaine 21
+
+### Lundi
+- Avancement sur mon projet api
+- Préparation de la venue de seb chez les devs
