@@ -333,3 +333,7 @@
 ### Lundi
 - Avancement sur mon projet api
 - Préparation de la venue de seb chez les devs
+
+### Mercredi
+- Avancement sur Magma
+- Avancement sur la venue de seb chez les devs

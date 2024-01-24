@@ -302,3 +302,12 @@
 - Techniques d'analyse des besoins (Persona, empathy map, user journey map, VPC) [322] 
 - Continuation du labo 1 [322] 
 - Hors-sujet : Présentation sur l'amélioration de ses performances.
+
+## Semaine 20
+
+### Mardi
+- Continuation du film sur Snowden
+- Continuation des exercices sur Karnaugh
+- Avancement sur le projet BPMN
+
+### Jeudi
