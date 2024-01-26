@@ -337,3 +337,6 @@
 ### Mercredi
 - Avancement sur Magma
 - Avancement sur la venue de seb chez les devs
+
+### Vendredi
+- Finalisation de Magma

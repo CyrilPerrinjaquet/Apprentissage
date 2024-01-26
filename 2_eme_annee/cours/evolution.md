@@ -311,3 +311,9 @@
 - Avancement sur le projet BPMN
 
 ### Jeudi
+- Chapitre 8 pages 62-64 [Anglais]
+- Avancment sur la gestion de projet du module 322 [Scrum]
+- Avancement sur le Labo Scalabilité [Cloud]
+- Résumé du dernier cours et avancement sur le labo 1 [322] 
+- Introduction au module 165 [NoSQL]
+- NoSQL 🆚 SQL [NoSQL]
