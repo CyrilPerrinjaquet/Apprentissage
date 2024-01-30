@@ -340,3 +340,19 @@
 
 ### Vendredi
 - Finalisation de Magma
+
+## Semaine 22
+
+### Lundi
+- Finition de magma 
+- Avancement sur le ticket dashboard
+
+### Mardi
+- Avancement à max sur le ticket dashboard
+
+### Mercredi
+
+### Jeudi
+
+### Vendredi
+- Congé
