@@ -317,3 +317,7 @@
 - Résumé du dernier cours et avancement sur le labo 1 [322] 
 - Introduction au module 165 [NoSQL]
 - NoSQL 🆚 SQL [NoSQL]
+
+## Semaine 21
+
+### Pas cours car semaine sportive ⛷️
