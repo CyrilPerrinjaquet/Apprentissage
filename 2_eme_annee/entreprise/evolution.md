@@ -351,6 +351,9 @@
 - Avancement à max sur le ticket dashboard
 
 ### Mercredi
+- Avancement sur le ticket dashboard
+- Refactor du plan de formation
+- Refactor des animations pour sebs
 
 ### Jeudi
 
