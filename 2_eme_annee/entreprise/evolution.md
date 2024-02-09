@@ -359,3 +359,16 @@
 
 ### Vendredi
 - Congé
+
+## Semaine 23
+
+### Lundi
+- Malade
+
+### Mercredi
+- Avancement sur le ticket dashboard
+- Avancement sur Musings
+
+### Vendredi
+- Avancement sur Musings
+- Prépartion de l'introduction scss pour seb

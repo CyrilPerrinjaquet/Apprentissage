@@ -321,3 +321,18 @@
 ## Semaine 21
 
 ### Pas cours car semaine sportive ⛷️
+
+## Semaine 22
+
+### Mardi
+- [TEST] [ECG] Film Snowden
+- [ANNONCE] [TEST] [Maths] Karnaugh 20.02.2024
+- Exercices 6, 10 et 12 [Maths]
+- Avancement sur le projet [BPMN]
+
+### Jeudi
+- [ANNONCE] [TEST] [Anglais] Unité 8, 22.02.2024
+- Avancement sur le projet scrum [Scrum]
+- Continuation du labo scalabilité [Cloud]
+- Concept MVP et avancement sur le labo 1 [322]
+- BDD, SGBDR, Théorème CAP, ACID, BASE [NoSQL]
