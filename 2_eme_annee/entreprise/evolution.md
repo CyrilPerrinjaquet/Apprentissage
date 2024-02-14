@@ -391,3 +391,4 @@
 ### Mercredi
 - Début du layout de la page avec Grid et flexbox
 - Avancement sur le labo scalabilité
+- Finition du ticket du dashboard des bières
