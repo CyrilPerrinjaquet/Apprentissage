@@ -336,3 +336,7 @@
 - Continuation du labo scalabilité [Cloud]
 - Concept MVP et avancement sur le labo 1 [322]
 - BDD, SGBDR, Théorème CAP, ACID, BASE [NoSQL]
+
+## Semaine 23
+
+### Vacances 😊

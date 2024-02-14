@@ -372,3 +372,22 @@
 ### Vendredi
 - Avancement sur Musings
 - Prépartion de l'introduction scss pour seb
+
+## Semaine 24
+
+### Lundi
+- Accueil de Seb chez les devs
+- Introduction SCSS + animations
+- Exercices sur SCSS et animations
+- Fix les tests de la PR pour les bières
+- Interview d'une prof pour le module 322
+
+### Mardi
+- Grid, Flexbox et Media queries avec Seb
+- Exercices sur Grid et flexbox
+- Base du site avec page about
+- Présentation de moi et du métier d'apprenti dev chez QoQa aux stagiaires  
+
+### Mercredi
+- Début du layout de la page avec Grid et flexbox
+- Avancement sur le labo scalabilité
