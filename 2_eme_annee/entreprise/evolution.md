@@ -392,3 +392,7 @@
 - Début du layout de la page avec Grid et flexbox
 - Avancement sur le labo scalabilité
 - Finition du ticket du dashboard des bières
+
+### Jeudi
+- Avancement sur les tickets Musings
+- Finintion de la page about ainsi que de la page portofolio
