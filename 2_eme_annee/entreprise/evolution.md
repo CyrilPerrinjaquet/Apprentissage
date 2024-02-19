@@ -396,3 +396,14 @@
 ### Jeudi
 - Avancement sur les tickets Musings
 - Finintion de la page about ainsi que de la page portofolio
+
+### Vendredi
+- Avancement sur les tickets Musings
+- Commencement du JS avec Seb
+
+## Semaine 25
+
+### Lundi
+- Avancement sur les PR de musings
+- Setup de la CI et simplecov (pas terminé) sur Musings
+- Aidé Seb pour le JS
