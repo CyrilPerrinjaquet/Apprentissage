@@ -340,3 +340,11 @@
 ## Semaine 23
 
 ### Vacances 😊
+
+## Semaine 24
+
+### Mardi
+- [TEST] [ECG] Reportage sur la votatation pour avancer l'âge de la retraite
+- 13ème rente AVS, âge de retraite [Débat] [ECG]
+- [TEST] [Maths] Karnaugh
+- Avancement sur le projet [BPMN]
