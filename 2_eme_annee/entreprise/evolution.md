@@ -407,3 +407,7 @@
 - Avancement sur les PR de musings
 - Setup de la CI et simplecov (pas terminé) sur Musings
 - Aidé Seb pour le JS
+
+### Mercredi
+- Essayer de fixer la CI de musings mais sans succès
+- Aidé Seb avec le JS et finition du script js pour les filtres
