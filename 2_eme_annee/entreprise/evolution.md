@@ -411,3 +411,8 @@
 ### Mercredi
 - Essayer de fixer la CI de musings mais sans succès
 - Aidé Seb avec le JS et finition du script js pour les filtres
+
+### Vendredi
+- Avancement sur le labo cloud 
+- Finition de la PR pour le code coverage
+- Finit d'écrire les tickets pour Musings

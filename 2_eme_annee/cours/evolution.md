@@ -348,3 +348,14 @@
 - 13ème rente AVS, âge de retraite [Débat] [ECG]
 - [TEST] [Maths] Karnaugh
 - Avancement sur le projet [BPMN]
+
+### Jeudi
+- [TEST] [Anglais] Unité 8 livre 1
+- Début du livre 2, chapitre 1 page 4 à 5 [Anglais]
+- Avancement sur la gestion du projet [Scrum]
+- Continuation du labo scalabilité et démo de JMeter [Cloud]
+- Design System, Wirframes, maquettes, prototypes [POO]
+- Intro labo 2 [POO]
+- Continuation du labo 1 [POO]
+- Familles NoSQL : clés-valeurs [NoSQL]
+- Exercices clés-valeurs avec JSON et modélisation de données [NoSQL]
