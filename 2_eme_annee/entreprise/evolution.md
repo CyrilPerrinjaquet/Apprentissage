@@ -416,3 +416,8 @@
 - Avancement sur le labo cloud 
 - Finition de la PR pour le code coverage
 - Finit d'écrire les tickets pour Musings
+
+## Semaine 26
+
+### Lundi
+- Avancement sur la PR de musings
