@@ -421,3 +421,7 @@
 
 ### Lundi
 - Avancement sur la PR de musings
+
+### Mercredi
+- Avancement sur les PR de musings
+- Avancement sur mon setup de notion

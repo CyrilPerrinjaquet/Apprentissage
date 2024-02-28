@@ -359,3 +359,12 @@
 - Continuation du labo 1 [POO]
 - Familles NoSQL : clés-valeurs [NoSQL]
 - Exercices clés-valeurs avec JSON et modélisation de données [NoSQL]
+
+## Semaine 25
+
+### Mardi
+- L'économie + secteurs économiques [ECG]
+- Révision des exposants [Maths]
+- Avancement sur le projet [BPMN]
+
+### Jeudi
