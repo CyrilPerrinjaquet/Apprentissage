@@ -425,3 +425,17 @@
 ### Mercredi
 - Avancement sur les PR de musings
 - Avancement sur mon setup de notion
+
+### Vendredi
+- CIE Nodejs
+
+## Semaine 27
+
+### Lundi
+- Avancement sur les PR de musings
+
+### Mercredi
+- CIE Nodejs
+
+### Vendredi
+- Refactor des PR sur musings

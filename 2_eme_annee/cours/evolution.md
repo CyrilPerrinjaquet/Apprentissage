@@ -368,3 +368,22 @@
 - Avancement sur le projet [BPMN]
 
 ### Jeudi
+- Avancement sur les stories [SCRUM]
+- Avancement sur le labo 1 322 [Cloud]
+- Avancement sur le labo 1 322 [322]
+- Famille NoSQL orientée documents [NoSQL]
+
+## Semaine 26
+
+### Mardi
+- L'économie, 3 chapitres d'une économie prospère [ECG]
+- Révision des exposants [Maths]
+- Avancement sur le projet BPMN [BPMN]
+
+### Jeudi
+- Chapitre 1, pages 5 et 6 [Anglais]
+- Avancement sur le projet stories [Scrum]
+- Avancement sur le labo 1 322 [Cloud]
+- Avancement sur le labo 1 322 [322]
+- A/B Testing [322]
+- Famille NoSQL orientée colonne [NoSQL]
