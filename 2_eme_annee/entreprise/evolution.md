@@ -439,3 +439,9 @@
 
 ### Vendredi
 - Refactor des PR sur musings
+
+## Semaine 28
+
+### Lundi
+- Merge des PR de musings
+- Création du projet kindful
