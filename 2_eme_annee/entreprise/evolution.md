@@ -445,3 +445,9 @@
 ### Lundi
 - Merge des PR de musings
 - Création du projet kindful
+
+### Mercredi
+- CIE Nodejs
+
+### Vendredi
+- Avancement sur les PR de musings

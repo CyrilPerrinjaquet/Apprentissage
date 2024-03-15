@@ -387,3 +387,19 @@
 - Avancement sur le labo 1 322 [322]
 - A/B Testing [322]
 - Famille NoSQL orientée colonne [NoSQL]
+
+## Semaine 27
+
+### Mardi
+- Circuit économique, l'offre et la demande, l'inflation [ECG]
+- Test a blanc sur l'économie (libérale de marché) [ECG]
+- Révision des exposants + exercices [Maths]
+- Avancement sur le projet BPMN [BPMN]
+
+### Jeudi
+- Chapitre 1, page 8-10 [Anglais]
+- Avancement sur les stories [Scrum]
+- Commencement du labo backup [Cloud]
+- Setup de l'env de dev Angular [322]
+- Intro labo 3 + Commencement du labo 2 [322]
+- Famille NoSQL Graph + exercice [NoSQL] 
