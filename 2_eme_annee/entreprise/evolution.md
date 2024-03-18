@@ -451,3 +451,14 @@
 
 ### Vendredi
 - Avancement sur les PR de musings
+
+## Semaine 29
+
+### Lundi
+- 
+
+### Mercredi
+- CIE Nodejs
+
+### Vendredi
+- 
