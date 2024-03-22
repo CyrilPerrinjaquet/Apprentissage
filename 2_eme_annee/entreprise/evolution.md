@@ -455,10 +455,10 @@
 ## Semaine 29
 
 ### Lundi
-- 
+- Avancement sur les PR de musings
 
 ### Mercredi
 - CIE Nodejs
 
 ### Vendredi
-- 
+- Avancement sur les PR de musings

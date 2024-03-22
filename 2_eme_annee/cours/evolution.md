@@ -403,3 +403,22 @@
 - Setup de l'env de dev Angular [322]
 - Intro labo 3 + Commencement du labo 2 [322]
 - Famille NoSQL Graph + exercice [NoSQL] 
+
+## Semaine 28
+
+### Mardi
+- [ANNONCE] [TEST] L'économie
+- Correction du test à blanc sur l'économie [ECG]
+- Documentaire sur les façons alternatives de construire une économie "meilleure" (Demain) [ECG]
+- [ANNONCE] [TEST] Exposants
+- Révision des exposants [Maths]
+- Avancement sur le projet et rendu [BPMN]
+
+### Jeudi
+- [ANNONCE] [TEST] Unité 1
+- Chapitre 1 page 10-11 [Anglais]
+- Méthode INVEST : Comment faire des stories qualitatives [Scrum]
+- Avancement sur labo backup [Cloud]
+- Introductions aux composants, MVC, avancement sur labo 2 [322]
+- [ANNONCE] [TEST] NoSQL
+- BDD "in memory" [NoSQL]
