@@ -462,3 +462,26 @@
 
 ### Vendredi
 - Avancement sur les PR de musings
+
+## Semaine 30
+
+### Lundi
+- Avancement sur les PR de musings
+
+### Mercredi
+- CIE Nodejs et examen
+
+### Vendredi Saint
+
+## Semaine 31
+
+### Lundi de Pâques
+
+### Mardi
+- Avancement sur les PR de musings
+
+### Mercredi
+
+### Jeudi
+
+### Vendredi
