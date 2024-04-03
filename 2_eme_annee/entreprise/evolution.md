@@ -481,6 +481,8 @@
 - Avancement sur les PR de musings
 
 ### Mercredi
+- Avancement sur les PR de musings
+- Tournage de l'épisode du podcast
 
 ### Jeudi
 

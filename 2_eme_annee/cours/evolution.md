@@ -422,3 +422,19 @@
 - Introductions aux composants, MVC, avancement sur labo 2 [322]
 - [ANNONCE] [TEST] NoSQL
 - BDD "in memory" [NoSQL]
+
+## Semaine 30
+
+### Mardi
+- [TEST] [ECG] L'économie
+- Le budget d'un apprenti/employé [ECG]
+- [TEST] [Maths] Exposants
+- Présenation BPMN et explication de la partie individuelle [BPMN]
+
+### Jeudi
+- [TEST] [Anglais] Unité 1 
+- Unité 2, page 12 à 13 [Anglais]
+- Création de nouvelles stories [Scrum]
+- Tarification [Cloud]
+- Démo d'un projet angular et avancement sur le labo 2 [322]
+- Pas de cours en [165]
