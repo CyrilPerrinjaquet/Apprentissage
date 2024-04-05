@@ -438,3 +438,11 @@
 - Tarification [Cloud]
 - Démo d'un projet angular et avancement sur le labo 2 [322]
 - Pas de cours en [165]
+
+## Semaine 31
+
+### Mardi
+- Vacances
+
+### Jeudi
+- Vacances
