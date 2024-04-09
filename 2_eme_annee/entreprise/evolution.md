@@ -489,3 +489,13 @@
 
 ### Vendredi
 - Avancement sur les PR de musings
+
+## Semaine 32
+
+### Lundi
+- Avancement sur les objectifs hebdo
+- Avancement sur Musings & présentation Nodejs
+
+### Mardi
+- Avancement sur la présentation
+- Atelier dépannage pour les stagiaires

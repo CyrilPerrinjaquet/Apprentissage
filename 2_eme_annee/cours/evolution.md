@@ -423,7 +423,7 @@
 - [ANNONCE] [TEST] NoSQL
 - BDD "in memory" [NoSQL]
 
-## Semaine 30
+## Semaine 29
 
 ### Mardi
 - [TEST] [ECG] L'économie
@@ -439,6 +439,14 @@
 - Démo d'un projet angular et avancement sur le labo 2 [322]
 - Pas de cours en [165]
 
+## Semaine 30
+
+### Mardi
+- Vacances
+
+### Jeudi
+- Vacances
+
 ## Semaine 31
 
 ### Mardi
@@ -446,3 +454,6 @@
 
 ### Jeudi
 - Vacances
+
+
+
