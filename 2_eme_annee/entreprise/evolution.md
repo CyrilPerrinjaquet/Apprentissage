@@ -499,3 +499,7 @@
 ### Mardi
 - Avancement sur la présentation
 - Atelier dépannage pour les stagiaires
+
+### Mercredi
+- Check hebdo
+- Commencement du ticket sur la gestion de la casse
