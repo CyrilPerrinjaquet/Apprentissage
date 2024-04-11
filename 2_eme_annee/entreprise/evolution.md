@@ -503,3 +503,6 @@
 ### Mercredi
 - Check hebdo
 - Commencement du ticket sur la gestion de la casse
+
+### Jeudi
+- Avancement du ticket sur la gestion de la casse
