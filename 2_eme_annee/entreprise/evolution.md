@@ -506,3 +506,16 @@
 
 ### Jeudi
 - Avancement du ticket sur la gestion de la casse
+
+### Vendredi
+- Finition du ticket sur la gestion de la casse
+
+## Semaine 33
+
+### Lundi 
+- Avancement sur les PR de musings
+- Révision NoSQL
+
+### Mercredi
+
+### Vendredi
