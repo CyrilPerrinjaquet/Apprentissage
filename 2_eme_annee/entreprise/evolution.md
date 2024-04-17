@@ -517,5 +517,7 @@
 - Révision NoSQL
 
 ### Mercredi
+- Avancement sur les PR de musings
+- Révision NoSQL
 
 ### Vendredi

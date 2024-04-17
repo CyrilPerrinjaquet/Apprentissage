@@ -455,5 +455,11 @@
 ### Jeudi
 - Vacances
 
+## Semaine 32
+
+### Mardi
+- Reportage sur le surendettement, crédit à la consommation [ECG]
+- Logarithmes [Maths]
+- Présentation de la semaine culturelle et sportive [BPMN]
 
 
