@@ -462,4 +462,17 @@
 - Logarithmes [Maths]
 - Présentation de la semaine culturelle et sportive [BPMN]
 
+### Jeudi
+- [ANNONCE] [TEST] [Anglais] Unité 2
+- Rendu des tests [Anglais]
+- Unité 2, page 14-16 [Anglais]
+- Avancement sur les stories scrum [Scrum]
+- Fait la facture cloud [Cloud]
+- Review du labo 2 et de ce qui a été fait [322]
+- [TEST] [NOSQL] Théorie
 
+## Semaine 33
+
+### Mardi
+
+### Jeudi

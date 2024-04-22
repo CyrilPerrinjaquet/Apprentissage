@@ -521,3 +521,10 @@
 - Révision NoSQL
 
 ### Vendredi
+- Avancement sur les PR de musings
+- Finition du ticket use case "De"
+
+## Semaine 34
+
+### Lundi
+- Avancement sur les objectifs
