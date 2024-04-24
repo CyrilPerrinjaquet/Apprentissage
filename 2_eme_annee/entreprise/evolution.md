@@ -528,3 +528,6 @@
 
 ### Lundi
 - Avancement sur les objectifs
+
+### Mercredi
+- Avancement sur les objectifs
