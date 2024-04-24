@@ -474,5 +474,8 @@
 ## Semaine 33
 
 ### Mardi
+- Leasing, violence [ECG]
+- Logarithmes exercices [Maths]
+- Commencement du diagramme BPMN [BPMN]
 
 ### Jeudi
