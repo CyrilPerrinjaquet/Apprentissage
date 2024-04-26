@@ -479,3 +479,10 @@
 - Commencement du diagramme BPMN [BPMN]
 
 ### Jeudi
+- [ANNONCE] [TEST] [Anglais] Unité 2
+- Avancemement sur les stories [Scrum]
+- Présentation du labo Flask noté [Cloud]
+- Comment évaluer la qualité d'une UI ? [322]
+- Cognitive Walkthrough [322]
+- Échelle SUS [322]
+- Labo 1 [NoSQL]
