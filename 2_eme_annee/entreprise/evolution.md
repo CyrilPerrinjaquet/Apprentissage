@@ -534,3 +534,13 @@
 
 ### Vendredi
 - Avancement sur les objectifs
+
+## Semaine 35
+
+### Lundi
+- Avancement sur les objectifs
+- Commencement de l'anoymisation
+
+### Mercredi
+
+### Vendredi
