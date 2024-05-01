@@ -486,3 +486,10 @@
 - Cognitive Walkthrough [322]
 - Échelle SUS [322]
 - Labo 1 [NoSQL]
+
+## Semaine 34
+
+### Mardi
+- Questionnaire sur la violence - film La Haine [ECG]
+- Logarithmes exercices [Maths]
+- Avancé sur le diagramme BPMN

@@ -542,5 +542,7 @@
 - Commencement de l'anoymisation
 
 ### Mercredi
+- Avancement sur les objectifs
+- Revue des objectifs
 
 ### Vendredi
