@@ -546,3 +546,5 @@
 - Revue des objectifs
 
 ### Vendredi
+- Avancement sur les tâches d'anoymisations
+- Reviews Back 

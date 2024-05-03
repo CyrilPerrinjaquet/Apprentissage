@@ -493,3 +493,10 @@
 - Questionnaire sur la violence - film La Haine [ECG]
 - Logarithmes exercices [Maths]
 - Avancé sur le diagramme BPMN
+
+### Jeudi
+- [TEST] [Anglais] Unité 2
+- Avancement sur les stories [Scrum]
+- Avancement du labo flask noté [Cloud]
+- Avancement sur le labo 3 [322]
+- Labo 2 [NoSQL]
