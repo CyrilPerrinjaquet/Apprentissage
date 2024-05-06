@@ -546,5 +546,12 @@
 - Revue des objectifs
 
 ### Vendredi
-- Avancement sur les tâches d'anoymisations
+- Avancement sur les tickets d'anoymisations
 - Reviews Back 
+
+## Semaine 36
+
+### Lundi
+- Avancement sur les objectifs
+- Avancement sur les tickets d'anonymisations
+- Reviews back
