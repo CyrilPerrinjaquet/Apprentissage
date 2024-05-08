@@ -500,3 +500,19 @@
 - Avancement du labo flask noté [Cloud]
 - Avancement sur le labo 3 [322]
 - Labo 2 [NoSQL]
+
+## Semaine 35
+
+### Mardi
+- Finition du questionnaire sur le film "La Haine" [ECG]
+- [ANNONCE] [TEST] [Maths] Logarithmes
+- Correction des exercices de logarithmes [Maths]
+- Avancement sur le diagramme BPMN [Maths]
+
+### Jeudi 
+- Congé - Ascension
+
+## Semaine 36
+
+### Mardi
+- [TEST] [Maths] Logarithmes

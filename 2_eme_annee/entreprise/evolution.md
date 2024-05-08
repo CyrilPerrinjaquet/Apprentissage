@@ -555,3 +555,8 @@
 - Avancement sur les objectifs
 - Avancement sur les tickets d'anonymisations
 - Reviews back
+
+### Mercredi
+- Avancement sur les objectifs
+- Revue des objectifs
+- Review back
