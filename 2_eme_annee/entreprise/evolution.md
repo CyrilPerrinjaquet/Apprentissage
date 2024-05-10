@@ -560,3 +560,6 @@
 - Avancement sur les objectifs
 - Revue des objectifs
 - Review back
+
+### Vendredi
+- Avancement sur les objectifs
