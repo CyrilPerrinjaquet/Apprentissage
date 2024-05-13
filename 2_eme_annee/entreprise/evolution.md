@@ -563,3 +563,9 @@
 
 ### Vendredi
 - Avancement sur les objectifs
+
+## Semaine 37
+
+### Lundi
+- Avancement sur les objectifs
+- Avancement sur le projet Angular
