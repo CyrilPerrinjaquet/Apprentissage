@@ -492,7 +492,7 @@
 ### Mardi
 - Questionnaire sur la violence - film La Haine [ECG]
 - Logarithmes exercices [Maths]
-- Avancé sur le diagramme BPMN
+- Avancé sur le diagramme BPMN [BPMN]
 
 ### Jeudi
 - [TEST] [Anglais] Unité 2
@@ -507,7 +507,7 @@
 - Finition du questionnaire sur le film "La Haine" [ECG]
 - [ANNONCE] [TEST] [Maths] Logarithmes
 - Correction des exercices de logarithmes [Maths]
-- Avancement sur le diagramme BPMN [Maths]
+- Avancement sur le diagramme BPMN [BPMN]
 
 ### Jeudi 
 - Congé - Ascension
@@ -516,3 +516,28 @@
 
 ### Mardi
 - [TEST] [Maths] Logarithmes
+- Correction du questionnaire sur le film "La Haine" [ECG]
+- Documentaire sur le fonctionnement des serials killer [ECG]
+- Rendu partiel du BPMN [BPMN] 
+
+### Jeudi
+- Rendu des tests [Anglais]
+- Pas de scrum
+- Avancement sur le labo flask [Cloud]
+- Présentation des labos [322]
+- Avancement sur le labo 3 [322]
+- Avancement sur le labo mongo [NoSQL]
+
+## Semaine 37
+
+### Mardi
+- Manipulation en utilisant des images [ECG]
+- Documentaire sur les secrets du marketing [ECG]
+- Rendu partiel du BPMN [BPMN & Maths]
+
+### Jeudi
+- Film "La recherche du bonheur" en anglais [Anglais]
+- Rendu des notes et moyennes [Scrum]
+- Avancement sur le labo flask [Cloud]
+- Révisions [322]
+- Avancement sur le labo mongo [NoSQL]

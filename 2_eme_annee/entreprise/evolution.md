@@ -569,3 +569,20 @@
 ### Lundi
 - Avancement sur les objectifs
 - Avancement sur le projet Angular
+
+### Mercredi
+- Avancement sur les objectifs
+
+### Vendredi
+- Helvetic Ruby Conf @Zurich
+
+## Semaine 38
+
+### Lundi
+- Pentecôte -> Congé
+
+### Mercredi
+- CIE IA
+
+### Vendredi
+- Avancement sur les objectifs
