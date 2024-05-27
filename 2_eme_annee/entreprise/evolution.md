@@ -586,3 +586,8 @@
 
 ### Vendredi
 - Avancement sur les objectifs
+
+## Semaine 39
+
+### Lundi
+- Avancement sur les tickets internes
