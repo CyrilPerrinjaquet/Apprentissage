@@ -594,3 +594,8 @@
 
 ### Mardi
 - Avancement sur les tickets internes
+
+### Mecredi
+- Avancement sur les tickets internes
+- Check hebdo
+- Avancement sur le projet cloud
