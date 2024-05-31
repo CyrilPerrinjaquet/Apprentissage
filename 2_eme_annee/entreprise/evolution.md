@@ -599,3 +599,11 @@
 - Avancement sur les tickets internes
 - Check hebdo
 - Avancement sur le projet cloud
+
+### Jeudi
+- Avancement sur les tickets
+- Avancement sur le projet cloud
+
+### Vendredi
+- Finition de mes tickets
+- Avancement sur le projet cloud
