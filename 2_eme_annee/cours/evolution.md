@@ -541,3 +541,19 @@
 - Avancement sur le labo flask [Cloud]
 - Révisions [322]
 - Avancement sur le labo mongo [NoSQL]
+
+## Semaine 38
+
+Pas de cours car semaine examens pour 4ème
+
+## Semaine 39
+
+### Mardi
+- Série "True detective" [ECG]
+- Avancement du labo 165 [Maths]
+- Avancement du labo 165 [254]
+
+### Jeudi
+- Finition du film "La recherche du bonheur" [Anglais]
+- Pas de scrum car prof absent [Scrum]
+- Examen pratique [322]

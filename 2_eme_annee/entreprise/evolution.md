@@ -607,3 +607,13 @@
 ### Vendredi
 - Finition de mes tickets
 - Avancement sur le projet cloud
+
+## Semaine 40
+
+### Lundi
+- CIE ML
+
+### Mercredi
+- Révisions examens
+
+### Vendredi
