@@ -556,4 +556,6 @@ Pas de cours car semaine examens pour 4ème
 ### Jeudi
 - Finition du film "La recherche du bonheur" [Anglais]
 - Pas de scrum car prof absent [Scrum]
+- Rendu des notes de cloud [Cloud]
 - Examen pratique [322]
+- Avancement du labo [NoSQL]

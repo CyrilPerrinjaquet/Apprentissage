@@ -617,3 +617,5 @@
 - Révisions examens
 
 ### Vendredi
+- Teambuilding + avancement des objectifs
+- Check hebdo
