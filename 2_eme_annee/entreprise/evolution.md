@@ -619,3 +619,17 @@
 ### Vendredi
 - Teambuilding + avancement des objectifs
 - Check hebdo
+
+## Semaine 41
+
+### Lundi
+- CIE ML
+
+### Mardi
+- Journée culturelle, entrainement et endurance
+
+### Mercredi
+- Avancement sur les objectifs
+
+### Jeudi
+- Journée culturelle, création musicale
