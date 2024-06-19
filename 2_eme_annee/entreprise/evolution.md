@@ -633,3 +633,17 @@
 
 ### Jeudi
 - Journée culturelle, création musicale
+
+### Vendredi
+- Avancement sur les objectifs
+
+## Semaine 42
+
+### Lundi
+- CIE ML
+
+### Mardi
+- Journée sportive, badminton
+
+### Mercredi
+- Avancement sur les objectifs
