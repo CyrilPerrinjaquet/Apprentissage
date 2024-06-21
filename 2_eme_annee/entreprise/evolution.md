@@ -647,3 +647,10 @@
 
 ### Mercredi
 - Avancement sur les objectifs
+
+### Jeudi
+- Journée sportive, tennis
+
+### Vendredi
+- Avancement sur les objectifs
+- Check hebdo
