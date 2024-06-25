@@ -654,3 +654,12 @@
 ### Vendredi
 - Avancement sur les objectifs
 - Check hebdo
+
+## Semaine 43
+
+### Lundi
+- Dernier jour CIE ML
+- Examen CIE
+
+### Mardi
+- Avancement sur les objectifs
