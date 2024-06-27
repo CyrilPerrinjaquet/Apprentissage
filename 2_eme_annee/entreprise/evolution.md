@@ -663,3 +663,11 @@
 
 ### Mardi
 - Avancement sur les objectifs
+
+### Mercredi
+- Avancement sur les objectifs
+- Check hebdo
+- Congé l'aprèm
+
+### Jeudi
+- Avancement sur les objectifs
