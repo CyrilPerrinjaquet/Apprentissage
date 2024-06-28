@@ -671,3 +671,6 @@
 
 ### Jeudi
 - Avancement sur les objectifs
+
+### Vendredi
+- Avancement sur les objectifs
