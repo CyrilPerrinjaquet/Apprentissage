@@ -674,3 +674,9 @@
 
 ### Vendredi
 - Avancement sur les objectifs
+
+## Semaine 44
+
+### Lundi
+- Avancement sur les objectifs
+- Quasi finitions de ces derniers
