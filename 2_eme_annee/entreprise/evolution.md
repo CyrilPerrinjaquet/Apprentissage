@@ -680,3 +680,10 @@
 ### Lundi
 - Avancement sur les objectifs
 - Quasi finitions de ces derniers
+
+### Mardi
+- Avancement sur les objetifs
+
+### Mercredi
+- Check hebdo
+- Avancement sur les objectifs
