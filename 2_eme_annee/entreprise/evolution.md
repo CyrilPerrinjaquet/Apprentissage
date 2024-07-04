@@ -687,3 +687,7 @@
 ### Mercredi
 - Check hebdo
 - Avancement sur les objectifs
+
+### Jeudi
+- Avancement sur les objectifs
+- Finalisation de la PR pour le ratio
