@@ -691,3 +691,7 @@
 ### Jeudi
 - Avancement sur les objectifs
 - Finalisation de la PR pour le ratio
+
+### Vendredi
+- Avancement sur les objectifs
+- Commencement des signatures
