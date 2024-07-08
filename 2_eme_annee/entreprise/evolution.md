@@ -695,3 +695,9 @@
 ### Vendredi
 - Avancement sur les objectifs
 - Commencement des signatures
+
+## Semaine 45
+
+### Lundi
+- Avancement sur les objectifs
+- Avancement sur les signatures
