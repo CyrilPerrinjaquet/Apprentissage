@@ -701,3 +701,11 @@
 ### Lundi
 - Avancement sur les objectifs
 - Avancement sur les signatures
+
+### Mardi
+- Avancement sur les objectifs
+- Rapport de formation
+
+### Mercredi
+- Avancement sur les objectifs
+- Check hebdo
