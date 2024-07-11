@@ -709,3 +709,7 @@
 ### Mercredi
 - Avancement sur les objectifs
 - Check hebdo
+
+### Jeudi
+- Avancement sur les objectifs
+- Refactor des signatures avec VueJS
