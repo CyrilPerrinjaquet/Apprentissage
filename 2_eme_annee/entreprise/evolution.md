@@ -713,3 +713,15 @@
 ### Jeudi
 - Avancement sur les objectifs
 - Refactor des signatures avec VueJS
+
+### Vendredi
+- Avancement sur les objectifs et putz avant les vacances
+
+## Semaine 46
+- Vacances 😊
+
+## Semaine 47
+- Vacances 😊
+
+## Semaine 48
+- Vacances 😊
