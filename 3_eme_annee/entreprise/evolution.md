@@ -14,3 +14,8 @@
 
 ### Jeudi
 - Avancement sur les tickets
+
+### Vendredi
+- Avancement sur les tickets en cours
+
+## Semaine 2
