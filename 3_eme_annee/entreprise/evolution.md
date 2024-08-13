@@ -19,3 +19,9 @@
 - Avancement sur les tickets en cours
 
 ## Semaine 2
+
+### Lundi
+- Avancement sur les tickets
+
+### Mardi
+- Avancement sur les tickets
