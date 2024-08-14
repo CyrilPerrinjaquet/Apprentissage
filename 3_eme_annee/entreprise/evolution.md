@@ -25,3 +25,6 @@
 
 ### Mardi
 - Avancement sur les tickets
+
+### Mercredi
+- Avancement sur les tickets et finition de certains
