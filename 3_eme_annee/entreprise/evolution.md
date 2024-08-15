@@ -28,3 +28,6 @@
 
 ### Mercredi
 - Avancement sur les tickets et finition de certains
+
+### Jeudi
+- Avancement les objectifs hebdo
