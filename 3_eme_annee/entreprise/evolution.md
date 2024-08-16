@@ -31,3 +31,7 @@
 
 ### Jeudi
 - Avancement les objectifs hebdo
+
+### Vendredi
+- Avancement sur les objectifs
+- Avancement sur musings web
