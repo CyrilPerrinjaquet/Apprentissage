@@ -35,3 +35,9 @@
 ### Vendredi
 - Avancement sur les objectifs
 - Avancement sur musings web
+
+## Semaine 3
+
+### Mardi
+- Avancement et clarification des tickets
+- Avancement sur musings web
