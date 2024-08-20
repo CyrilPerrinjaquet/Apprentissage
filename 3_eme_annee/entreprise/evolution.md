@@ -41,3 +41,4 @@
 ### Mardi
 - Avancement et clarification des tickets
 - Avancement sur musings web
+- Setup de qoqa_android
