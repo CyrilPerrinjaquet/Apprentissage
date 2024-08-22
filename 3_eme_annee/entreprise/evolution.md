@@ -42,3 +42,10 @@
 - Avancement et clarification des tickets
 - Avancement sur musings web
 - Setup de qoqa_android
+
+### Mercredi
+- Finition des tickets en cours
+- Check hebdo
+
+### Jeudi
+- Avancement sur les objectifs
