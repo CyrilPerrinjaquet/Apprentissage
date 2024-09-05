@@ -49,3 +49,38 @@
 
 ### Jeudi
 - Avancement sur les objectifs
+
+### Vendredi
+- Opération Barberose
+- Avancement sur les objectifs
+
+## Semaine 4
+
+### Mardi
+- Avancement sur les objectifs
+- Sensibilisation risques psychosociaux
+
+### Mercredi
+- Avancement sur les objectifs
+- Check hebdo
+
+### Jeudi
+- Avancement sur les objectifs
+
+### Vendredi
+- Finition des objectifs
+
+## Semaine 5
+
+### Mardi
+- Revue des objectifs
+- Check hebdo
+
+### Mercredi
+- Finition des objectifs
+- Finition de ma PR pour l'endpoint avatar
+
+### Jeudi
+- Tour d'android
+- Atelier gestion du stress
+- Soirée buddy/mini-budd
