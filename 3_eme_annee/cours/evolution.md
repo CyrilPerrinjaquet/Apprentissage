@@ -25,3 +25,11 @@
 - 20% de la note théorique -> présentation ~15 min sur les tests d'intégrations
 - Exercice de compréhension de texte + achat du matos de 3ème [ECG]
 - Théorie API et REST [183]
+
+## Semaine 4
+
+### Lundi
+- Étude de faisabilité [306]
+- Continué le travail de recherche sur les tests d'intégrations [450]
+- Introduction à PHP et laravel [183]
+- Exercice pratique 1 (CRUD) [183]
