@@ -84,3 +84,23 @@
 - Tour d'android
 - Atelier gestion du stress
 - Soirée buddy/mini-budd
+
+### Vendredi
+- Avancement des objectifs
+- Monté en compétences sur kotlin
+
+## Semaine 6
+
+### Mardi
+- Commencement du ticket ListItem android
+- Monté en compétences sur kotlin
+
+### Mercredi
+- Merge de la PR attr_reader
+- Monté en compétences sur kotlin
+- Finition du ticket android
+
+### Jeudi
+- Monté en compétences sur kotlin
+
+### Vendredi
