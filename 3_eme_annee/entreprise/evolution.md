@@ -104,3 +104,5 @@
 - Monté en compétences sur kotlin
 
 ### Vendredi
+- Monté en compétences sur kotlin
+- Trouvé les questions thématique check cours
