@@ -106,3 +106,15 @@
 ### Vendredi
 - Monté en compétences sur kotlin
 - Trouvé les questions thématique check cours
+
+## Semaine 7
+
+### Lundi du jeûne
+- Congé
+
+### Mardi
+- Avancement sur kotlin koans
+- Check hebdo + thématique
+
+### Mercredi
+- Avancement sur kotlin koans
