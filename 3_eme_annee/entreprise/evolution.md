@@ -118,3 +118,4 @@
 
 ### Mercredi
 - Avancement sur kotlin koans
+- Avancement sur le ticket qaraq variables colors
