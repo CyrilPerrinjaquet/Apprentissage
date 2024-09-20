@@ -124,3 +124,5 @@
 - Avancement sur le ticket qaraq variables color
 
 #### Vendredi
+- Quasi finition du ticket qaraq variables color
+- Avancement sur kotlin koans
