@@ -33,3 +33,14 @@
 - Continué le travail de recherche sur les tests d'intégrations [450]
 - Introduction à PHP et laravel [183]
 - Exercice pratique 1 (CRUD) [183]
+
+## Semaine 5
+
+### Lundi du jeûne
+
+## Semaine 6
+
+### Lundi
+- Étude de faisabilité [306]
+- Continué le travail de recherche sur les tests d'intégrations [450]
+- Correction de l'exercice pratique laravel et commencement d'un exercice pratique [183]

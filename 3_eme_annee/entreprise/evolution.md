@@ -126,3 +126,8 @@
 #### Vendredi
 - Quasi finition du ticket qaraq variables color
 - Avancement sur kotlin koans
+
+## Semaine 8
+
+### Mardi
+- Quasi-finition sur kotlin koans
