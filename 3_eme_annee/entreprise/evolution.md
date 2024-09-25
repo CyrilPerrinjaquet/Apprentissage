@@ -131,3 +131,7 @@
 
 ### Mardi
 - Quasi-finition sur kotlin koans
+
+### Mercredi
+- Finition du ticket QaraQColors
+- Avancement sur le ticket GuestRegisterFragment
