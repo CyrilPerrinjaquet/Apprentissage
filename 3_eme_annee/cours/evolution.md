@@ -44,3 +44,10 @@
 - Étude de faisabilité [306]
 - Continué le travail de recherche sur les tests d'intégrations [450]
 - Correction de l'exercice pratique laravel et commencement d'un exercice pratique [183]
+
+## Semaine 7
+
+### Lundi
+- Étude de faisabilité [306]
+- Continué le travail de recherche sur les tests d'intégrations + rendu [450]
+- Correction de l'exercice théorique injection sql et commencement de l'exercice théorique authentifications [183]

@@ -135,3 +135,16 @@
 ### Mercredi
 - Finition du ticket QaraQColors
 - Avancement sur le ticket GuestRegisterFragment
+
+### Jeudi
+- Avancement sur le ticket GuestRegisterFragment
+
+### Vendredi
+- Avancement sur le ticket GuestRegisterFragment
+
+## Semaine 9
+
+### Mardi
+- Check hebdo
+- Finition du ticket GuestRegisterFragment
+- Finition totale du sujet qoqa-signatures
