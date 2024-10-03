@@ -148,3 +148,10 @@
 - Check hebdo
 - Finition du ticket GuestRegisterFragment
 - Finition totale du sujet qoqa-signatures
+
+### Mercredi
+- Finition du ticket CashbackFragment
+
+### Jeudi
+- Fix richtext/html copy to clipboard qoqa-signatures
+- Avancement sur le ticket GuestAddressFragment
