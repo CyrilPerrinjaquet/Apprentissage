@@ -155,3 +155,6 @@
 ### Jeudi
 - Fix richtext/html copy to clipboard qoqa-signatures
 - Avancement sur le ticket GuestAddressFragment
+
+### Vendredi
+- Avancement sur le ticket GuestAddressFragment
