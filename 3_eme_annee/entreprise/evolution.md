@@ -158,3 +158,9 @@
 
 ### Vendredi
 - Avancement sur le ticket GuestAddressFragment
+
+## Semaine 10
+
+### Mardi
+- Quasi-finition du ticket GuestAddressFragment
+- Merge du ticket GuestRegisterFragment
