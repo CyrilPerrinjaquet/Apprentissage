@@ -164,3 +164,9 @@
 ### Mardi
 - Quasi-finition du ticket GuestAddressFragment
 - Merge du ticket GuestRegisterFragment
+
+### Mercredi
+- Merge du ticket CashbackFragment
+- Finition du ticket GuestAddressFragment
+- Check hebdo
+- Commencement du ticket pour l'entreprise dans la liste des addresses
