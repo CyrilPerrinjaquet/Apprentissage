@@ -170,3 +170,14 @@
 - Finition du ticket GuestAddressFragment
 - Check hebdo
 - Commencement du ticket pour l'entreprise dans la liste des addresses
+
+### Jeudi
+- Fix de la CI pour les tests
+- Commencement du ticket sur la nouvelle grille des paiements
+- Finition du ticket pour afficher les entreprises dans la liste d'adresses
+
+### Vendredi
+- Avancement sur le ticket sur la nouvelle grille des paiements
+
+## Semaine 11
+- Vacances 😊

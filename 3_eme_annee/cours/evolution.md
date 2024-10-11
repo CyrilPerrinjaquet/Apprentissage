@@ -51,3 +51,17 @@
 - Étude de faisabilité [306]
 - Continué le travail de recherche sur les tests d'intégrations + rendu [450]
 - Correction de l'exercice théorique injection sql et commencement de l'exercice théorique authentifications [183]
+
+## Semaine 8
+
+### Lundi
+- Cahier des charges [306]
+- Présentation des travaux de tests (Plans de tests et Tests unitaires) [450]
+- Discussions sur les assurances (maladie, soins dentaires, complémentaires) [ECG]
+- Correction du test sur les figures de style [ECG]
+
+### Semaine 9 
+- Vacances 😊
+
+### Semaine 10
+- Vacances 😊
