@@ -181,3 +181,11 @@
 
 ## Semaine 11
 - Vacances 😊
+
+## Semaine 12
+
+### Lundi
+- Finition du ticket pour la nouvelle grille de paiements
+- Support
+- Ajout d'une phrase dans l'outil signature
+
