@@ -189,3 +189,6 @@
 - Support
 - Ajout d'une phrase dans l'outil signature
 
+### Mardi
+- Commencement du ticket QO-17130
+- Support
