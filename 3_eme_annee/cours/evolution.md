@@ -65,3 +65,19 @@
 
 ### Semaine 10
 - Vacances 😊
+
+## Semaine 11
+
+### Lundi
+- Continuation du cahier des charges [306]
+- Présentation des travaux de recherches [450]
+- Discussions sur les assurances (maladie, dentaire, etc...), démocratie et figure de style [ECG]
+- Authentification, exercice pratique authentification [183]
+
+## Semaine 12
+
+### Mardi
+- Feedback étude de faisabilité [306]
+- Plans de test et démo avec un projet python + pytest [450]
+- Discussions sur les enjeux des élections américaines, fin des figures de styles, droit pénal [ECG]
+- Avancemement sur le l'exercice pratique authentification, OAuth 2 [183]

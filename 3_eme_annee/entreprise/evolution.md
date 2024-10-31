@@ -192,3 +192,26 @@
 ### Mardi
 - Commencement du ticket QO-17130
 - Support
+
+### Mercredi
+- Support
+- Finition du ticket QO-17130
+
+### Jeudi
+- Support
+- Commencement du ticket bug DeviceToken
+
+### Vendredi
+- Finition du ticket bug DeviceToken
+
+## Semaine 13
+
+### Mardi
+- Finition du ticket changelog android
+
+### Mercredi
+- Terminé le ticket pour supprimer les "+" pour le ticket changelog android
+- Commencement du ticket datatrans warning
+
+### Jeudi
+- 
