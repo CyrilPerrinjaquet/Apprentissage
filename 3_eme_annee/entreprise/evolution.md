@@ -214,4 +214,8 @@
 - Commencement du ticket datatrans warning
 
 ### Jeudi
-- 
+- Quasi-finition du ticket datatrans warning
+- Merge de la PR pour supprimer les "+" pour le ticket changelog android
+
+### Vendredi
+- Quasi-finition du ticket datatrans warning
