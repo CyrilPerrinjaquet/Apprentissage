@@ -76,8 +76,16 @@
 
 ## Semaine 12
 
-### Mardi
+### Lundi
 - Feedback étude de faisabilité [306]
 - Plans de test et démo avec un projet python + pytest [450]
 - Discussions sur les enjeux des élections américaines, fin des figures de styles, droit pénal [ECG]
 - Avancemement sur le l'exercice pratique authentification, OAuth 2 [183]
+
+## Semaine 13
+
+### Lundi
+- Découpage du projet en tâches [306]
+- Uses cases et ajout de tests sur le projet python [450]
+- Film L'instinct de mort [ECG]
+- Correction de l'exercice pratique authentification et commencement de l'exercice pratique autorisation [183]
