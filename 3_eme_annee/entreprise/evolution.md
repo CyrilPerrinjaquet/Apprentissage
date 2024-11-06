@@ -219,3 +219,11 @@
 
 ### Vendredi
 - Quasi-finition du ticket datatrans warning
+
+## Semaine 14
+
+### Mardi
+- Finition du ticket datatrans
+
+### Mercredi
+- Commencement du ticket info prix éditable
