@@ -227,3 +227,7 @@
 
 ### Mercredi
 - Commencement du ticket info prix éditable
+
+### Jeudi
+- Quasi-finition du ticket info prix éditable
+- Merge du ticket datatrans
