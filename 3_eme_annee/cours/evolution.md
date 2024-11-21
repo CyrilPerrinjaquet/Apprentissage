@@ -89,3 +89,21 @@
 - Uses cases et ajout de tests sur le projet python [450]
 - Film L'instinct de mort [ECG]
 - Correction de l'exercice pratique authentification et commencement de l'exercice pratique autorisation [183]
+
+## Semaine 14
+
+### Lundi
+- Salle de conférence, formulaire "climat de l'école" [306]
+- Rapports de test [450]
+- Film "l'instinct de mort" deuxième partie [ECG]
+- Pentesting, exerice théorique audit trail [183]
+
+## Semaine 15
+
+### Lundi
+- Milestones [306]
+- Présentation du travail sur les tests d'intégration [450]
+- Écoute d'un reportage en lien avec le film de la semaine passée, pour test [ECG]
+- Reportage sur la propagande des médias [ECG] 
+- Modalités labos, correction de l'ex. pratique 3 et théorique 5 [183]
+- Exercice pratique 4 audit trail [183]

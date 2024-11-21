@@ -231,3 +231,37 @@
 ### Jeudi
 - Quasi-finition du ticket info prix éditable
 - Merge du ticket datatrans
+
+### Vendredi
+- Finition du ticket info prix éditable
+
+## Semaine 15
+
+### Mardi
+- Commencement du ticket amélioration ShortUrl BO
+- Commencement sur le ticket image de moyens de paiement depuis le back
+
+### Mercredi
+- Avancement du ticket amélioration ShortUrl BO
+- Avancement sur le ticket image de moyens de paiement depuis le back
+
+### Jeudi
+- Quasi-Finition du ticket amélioration ShortUrl BO
+- Finition du ticket image de moyens de paiement depuis le back
+- Commencement du ticket ShortUrl
+
+### Vendredi
+- Finition du ticket amélioration ShortUrl BO
+- Avancement du ticket rake composants orphelins
+
+## Semaine 16
+
+### Mardi
+- Check hebdo
+- Avancement sur le ticket rake composants orphelins
+
+### Mercredi
+- Avancement sur le ticket rake composants orphelins
+
+### Jeudi
+- Avancement sur le ticket rake composants orphelins
