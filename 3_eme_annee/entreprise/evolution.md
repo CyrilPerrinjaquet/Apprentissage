@@ -265,3 +265,19 @@
 
 ### Jeudi
 - Avancement sur le ticket rake composants orphelins
+
+### Vendredi
+- Avancement sur le ticket rake composants orphelins
+
+## Semaine 17
+
+### Mardi
+- Avancement sur le ticket rake composants orphelins
+
+### Mercredi
+- Check hebdo
+- Finition du ticket rake composants orphelins
+
+### Jeudi
+
+### Vendredi

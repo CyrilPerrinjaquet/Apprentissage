@@ -107,3 +107,11 @@
 - Reportage sur la propagande des médias [ECG] 
 - Modalités labos, correction de l'ex. pratique 3 et théorique 5 [183]
 - Exercice pratique 4 audit trail [183]
+
+## Semaine 16
+
+### Lundi
+- Avancement sur le projet [306]
+- Inscriptions à la semaine sportive d'hiver et clean code [450]
+- Rendu du test, peines, mesures, exercices [ECG]
+- Correction de l'exercice pratique audit trail, modalités examen théorique, révisions [183]
