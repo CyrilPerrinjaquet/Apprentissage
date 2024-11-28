@@ -279,5 +279,8 @@
 - Finition du ticket rake composants orphelins
 
 ### Jeudi
+- Testé en local le ticket composants orphelins
+- Avancé sur le ticket centimes en exposant
+- Demandé à être review master
 
 ### Vendredi
