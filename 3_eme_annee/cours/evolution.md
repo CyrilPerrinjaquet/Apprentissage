@@ -115,3 +115,11 @@
 - Inscriptions à la semaine sportive d'hiver et clean code [450]
 - Rendu du test, peines, mesures, exercices [ECG]
 - Correction de l'exercice pratique audit trail, modalités examen théorique, révisions [183]
+
+## Semaine 17
+
+### Lundi
+- Avancemement sur le projet [306]
+- Correcton de l'exercice sur le Clean Code et exercice sur les outils de code [450]
+- Analyse de médias avec un épisode des simpsons [ECG]
+- Examen (labos) [183]

@@ -284,3 +284,14 @@
 - Demandé à être review master
 
 ### Vendredi
+- Test du ticket composant orphelins
+
+## Semaine 18
+
+### Mardi
+- Avancement sur le ticket exposant
+
+### Mercredi
+- Avancement sur le ticket exposant
+- Test du ticket composant orphelins
+
