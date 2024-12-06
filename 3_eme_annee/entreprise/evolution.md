@@ -295,3 +295,8 @@
 - Avancement sur le ticket exposant
 - Test du ticket composant orphelins
 
+### Jeudi
+- Finition du ticket exposant
+
+### Vendredi
+- Commencement du ticket infos livraison
