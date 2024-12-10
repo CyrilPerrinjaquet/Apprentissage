@@ -123,3 +123,11 @@
 - Correcton de l'exercice sur le Clean Code et exercice sur les outils de code [450]
 - Analyse de médias avec un épisode des simpsons [ECG]
 - Examen (labos) [183]
+
+## Semaine 18
+
+### Lundi
+- Rappel du cours précédent, chef de projet [306]
+- TDD [450]
+- Analyse + exercice de l'épisode "Chute Libre" de Black Mirror
+- Révisions [183]

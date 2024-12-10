@@ -300,3 +300,8 @@
 
 ### Vendredi
 - Commencement du ticket infos livraison
+
+## Semaine 19
+
+### Mardi
+- Avancement sur le ticket android infos livraison
