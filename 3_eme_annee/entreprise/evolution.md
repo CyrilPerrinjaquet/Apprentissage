@@ -305,3 +305,6 @@
 
 ### Mardi
 - Avancement sur le ticket android infos livraison
+
+### Mercredi
+- Avancement sur le ticket android infos livraison
