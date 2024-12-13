@@ -308,3 +308,9 @@
 
 ### Mercredi
 - Avancement sur le ticket android infos livraison
+
+### Jeudi
+- Avancement sur le ticket android infos livraison
+
+### Vendredi
+- Quasi-finition du ticket android infos livraison
