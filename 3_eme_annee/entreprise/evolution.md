@@ -314,3 +314,11 @@
 
 ### Vendredi
 - Quasi-finition du ticket android infos livraison
+
+## Semaine 20
+
+### Mardi
+- Finition du ticket android infos livraison
+
+### Mercredi
+- Avancement sur le ticket bug vues soft-deleted BO

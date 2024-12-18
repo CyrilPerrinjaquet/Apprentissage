@@ -131,3 +131,17 @@
 - TDD [450]
 - Analyse + exercice de l'épisode "Chute Libre" de Black Mirror
 - Révisions [183]
+
+## Semaine 19
+
+### Lundi
+- Gestion d'équipe [306]
+- Présentation du dernier travail test end-to-end [450]
+- Film "Capitaine Fantastique" [ECG]
+- Examen théorique [183]
+
+## Semaine 20
+- Vacances 😊
+
+## Semaine 21
+- Vacances 😊
